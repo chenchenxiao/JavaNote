@@ -1,0 +1,9 @@
+Object中的getClass可以获得一个Class对象，一个Class表示一个特定类的属性，里面包含了类的数据结构
+Class对象的getName方法将获得Class表示的类的全限定名(包括包名),getSimpleName则获得类名
+Class.forName(类名)可以获得对应的Class对象
+Class的newInstance方法可以可以快速创建一个实例，如Apple.class.newInstance
+该方法会调用默认的无参构造器，如果没有无参构造器，则报错
+更多的API直接去查
+
+反射的用途：
+    在运行时对一个对象进行一系列的判断，如判断对象的属性，对象的方法，在运行时构造一个对象

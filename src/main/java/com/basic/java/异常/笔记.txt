@@ -1,0 +1,14 @@
+异常分为Error和Exception，他们的顶层父类都是Throwable
+    1、Error表示系统内部的错误，无法通过代码来处理：比如OOM，堆栈空间不足
+    2、Exception分为运行时异常和编译时异常，其中编译时异常被JVM认为都是可以处理的，所以程序要处理
+
+栈轨迹
+     getStackTrace方法可以直接访问printStackTrace方法所提供的信息(Class,方法名等)
+     该方法将返回一个由栈轨迹的元素所构成的元素数组，每个元素都是一桢
+     如果用throws把异常往上抛，那么处理的程序的printStackTrace方法只会显示抛出点的信息
+     要用fillInStackTrace才会显示处理点的信息
+
+finally关键字
+    一般用来释放资源，使资源恢复到它的初始状态
+    无论continue或break，finally都会执行
+    finally也会导致异常丢失，例如在try块中抛出异常，在finally直接return，这样就不会产生任何输出了
