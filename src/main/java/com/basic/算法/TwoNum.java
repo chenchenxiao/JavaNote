@@ -1,4 +1,4 @@
-package com.basic.suanfa;
+package com.basic.算法;
 
 /**
  * @author Blse

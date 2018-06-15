@@ -13,7 +13,7 @@ public class Test {
 //        number("12345a");
 //          phone("11414057676");
 //          email("125043312@qq.com");
-        nameCh("12345612");
+//        nameCh("12345612");
     }
 
     //手机号

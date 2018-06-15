@@ -1,7 +1,7 @@
 package com.basic;
 
 
-import lombok.Getter;
+
 
 import java.lang.ref.WeakReference;
 import java.security.MessageDigest;
@@ -15,7 +15,8 @@ import java.util.*;
  */
 
 public class p{
-    @Getter static String name;
+
+     static String name;
 
 
     @Override

@@ -186,6 +186,8 @@ GC算法：
 
     新生代收集器：Serial, ParNew,Parallel Scavenge
     老年代收集器：Serial Old,Parallel Old, CMS
+    吞吐量收集器用于中大型应用程序
+    串行收集器用于小型应用程序
 
 内存回收与分配策略
     新生代GC（Minor GC）：指发生在新生代的垃圾收集动作，因为java对象大都具备朝生夕灭的特性，所有Minor GC非常频繁，一般速度也比较快

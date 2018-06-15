@@ -1,6 +1,7 @@
 package com.basic.java8.Date;
 
-import org.junit.Test;
+
+import org.junit.jupiter.api.Test;
 
 import javax.servlet.ServletContext;
 import javax.servlet.http.HttpServletRequest;

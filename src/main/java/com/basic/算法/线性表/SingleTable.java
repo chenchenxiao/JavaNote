@@ -1,4 +1,4 @@
-package com.basic.suanfa.线性表;
+package com.basic.算法.线性表;
 
 /**
  * @author Blse

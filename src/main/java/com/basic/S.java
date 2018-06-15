@@ -54,8 +54,44 @@ public class S extends p {
 //        System.out.println(c.equals(a + b));
 //        System.out.println(g == (a + b));
 //        System.out.println(g.equals(a + b));
+//        test2();
+       String ss = replaceSpace(new StringBuffer("hello world"));
+       System.out.println(ss);
+       System.out.println(ss.length());
     }
 
+    public static  String replaceSpace(StringBuffer str) {
+        char s = 0;
+        int i = 0;
+        int length = str.length();
+        boolean flag = true;
+        while (flag) {
+            s = str.charAt(i);
+            if (s == ' ') {
+                str.setCharAt(i, '%');
+                str.insert(i + 1, '2');
+                str.insert(i + 2, '0');
+                i += 2;
+                length += 2;
+                str.setLength(length);
+                continue;
+            }
+            i++;
+            if (i == length) {
+                flag = false;
+            }
+            System.out.println(i);
+        }
+        return str.toString();
+    }
+
+    static void test2() {
+        Integer i01 = 59;
+        int i02 = 59;
+        Integer i03 =Integer.valueOf(59);
+        Integer i04 = new Integer(59);
+        System.out.println(i03 == i04);
+    }
 
     public static int test1() {
         int j = 0;

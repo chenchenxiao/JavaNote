@@ -1,7 +1,7 @@
 package com.basic.java8.Optional;
 
 import com.basic.java8.stream.Employee;
-import org.junit.Test;
+import org.junit.jupiter.api.Test;
 
 import java.util.Optional;
 

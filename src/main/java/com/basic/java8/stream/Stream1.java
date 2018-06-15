@@ -1,6 +1,7 @@
 package com.basic.java8.stream;
 
-import org.junit.Test;
+
+import org.junit.jupiter.api.Test;
 
 import java.util.*;
 import java.util.stream.Collector;

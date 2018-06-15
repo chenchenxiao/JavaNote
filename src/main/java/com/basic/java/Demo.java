@@ -8,7 +8,7 @@ package com.basic.java;
 public class Demo {
     public static void main(String[] args) {
         A a = new A();
-        System.out.println();
+        System.out.println("a");
     }
 }
 

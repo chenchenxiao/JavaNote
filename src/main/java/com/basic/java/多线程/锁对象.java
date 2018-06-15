@@ -18,6 +18,7 @@ public class 锁对象 {
             @Override
             public void run() {
                 System.out.println("inrun");
+                test();
             }
         }).start();
 

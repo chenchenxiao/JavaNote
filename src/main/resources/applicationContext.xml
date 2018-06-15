@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns:context="http://www.springframework.org/schema/context"
+	   xmlns:aop="http://www.springframework.org/schema/aop"
+	   xsi:schemaLocation="http://www.springframework.org/schema/beans
+	    http://www.springframework.org/schema/beans/spring-beans-4.2.xsd
+	   http://www.springframework.org/schema/aop
+	   http://www.springframework.org/schema/aop/spring-aop-4.2.xsd
+       http://www.springframework.org/schema/context
+       http://www.springframework.org/schema/context/spring-context-4.2.xsd
+       ">
+	<!-- 配置service
+		<bean> 配置需要创建的对象
+			id ：用于之后从spring容器获得实例时使用的
+			class ：需要创建实例的全限定类名
+	-->
+	<!--<bean id="a" class="spring.entity.EnA"/>-->
+	<!--<bean id="c" class="spring.entity.enc"/>-->
+
+	<context:component-scan base-package="spring.entity"/>
+
+	<bean id="serviceImpl" class="spring.AOP.ServiceImpl"/>
+	<bean id="log" class="spring.AOP.Log"/>
+	<!--AOP配置 -->
+	<aop:config>
+		<!--配置切入点-->
+		<aop:pointcut id="serviceImplPoint" expression="execution(* spring.AOP.ServiceImpl.*(..))"/>
+		<!--配置切面-->
+		<aop:aspect ref="log">
+			<!--通知类型-->
+			<aop:before method="log" pointcut-ref="serviceImplPoint"/>
+		</aop:aspect>
+	</aop:config>
+
+</beans>
