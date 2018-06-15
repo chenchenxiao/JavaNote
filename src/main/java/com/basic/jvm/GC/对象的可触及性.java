@@ -1,12 +1,16 @@
-package com.basic.JVM.GC;
+package com.basic.jvm.GC;
 
 /**
  * @author Blse
  * @date 2018/1/2
- * @description
+ * @description   对象的可触及性，finalize只会执行一次，只会在GC时执行
  */
-public class 可恢复对象 {
-    public static 可恢复对象 obj;
+public class 对象的可触及性 {
+    public static 对象的可触及性 obj;
+
+    public 对象的可触及性() {
+        super();
+    }
 
     @Override
     protected void finalize() throws Throwable {
@@ -19,9 +23,8 @@ public class 可恢复对象 {
     public String toString() {
         return "I am 可恢复对象";
     }
-
-    public static void main(String[] args) {
-        obj = new 可恢复对象();
+    public static void main(String[] args) throws InterruptedException {
+        obj = new 对象的可触及性();
         obj = null;
         System.gc();
         System.out.println("第一次GC");
@@ -39,4 +42,7 @@ public class 可恢复对象 {
             System.out.println("2---  notNull");
         }
     }
+
 }
+
+

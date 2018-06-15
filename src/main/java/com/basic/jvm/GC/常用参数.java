@@ -1,4 +1,4 @@
-package com.basic.JVM.GC;
+package com.basic.jvm.GC;
 
 /**
  * @author Blse

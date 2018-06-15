@@ -1,4 +1,4 @@
-package com.basic.model;
+package com.basic.java;
 
 /**
  * @author Blse

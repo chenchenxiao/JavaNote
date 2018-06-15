@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Main {
+public class 错排问题 {
      
     public static long fn(int m){
         if(m == 1){

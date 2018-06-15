@@ -8,18 +8,9 @@ import java.util.*;
  * @date 2018/5/7
  * @description
  */
-class Students{
-    private String name;
 
-    public String getName() {
-        return name;
-    }
 
-    public void setName(String name) {
-        this.name = name;
-    }
-}
-public class 算法测试 {
+public class 算法练习 {
 
     public static void main(String[] args) {
 //        ListNode listNode = new ListNode(1);
@@ -185,7 +176,7 @@ public class 算法测试 {
 //        分解因数(sc.nextInt());
 //        求1数();
 //        外星人的语言();
-//        数位和();
+        数位和();
 //        进制回文数();
 //        有假币();
 //          找新娘();
@@ -196,7 +187,7 @@ public class 算法测试 {
 //          素数和();
 //        循环数();
 //          求数根();
-        杨辉三角();
+//        杨辉三角();
     }
 
     public static void 杨辉三角() {
@@ -246,6 +237,9 @@ public class 算法测试 {
         System.out.println(result);
     }
 
+    /**
+     * 判断一个数是否是循环数，例如1723，如果所求的数
+     */
     public static void 循环数() {
         Scanner sc = new Scanner(System.in);
         String val = sc.next();
@@ -273,6 +267,9 @@ public class 算法测试 {
         }
     }
 
+    /**
+     * 给定一个数N，求从0-N中的所有素数的和
+     */
     public static void 素数和() {
         Scanner sc = new Scanner(System.in);
         int num = sc.nextInt();
@@ -296,6 +293,9 @@ public class 算法测试 {
         System.out.println(result / 2);
     }
 
+    /**
+     * 给定一个数N，求从0-N中的素数的个数
+     */
     public static void 素数个数() {
         Scanner sc = new Scanner(System.in);
         int num = sc.nextInt();
@@ -308,6 +308,9 @@ public class 算法测试 {
         System.out.println(result);
     }
 
+    /**
+     * 给定一个数组的长度和右移的步数，求右移后的数组
+     */
     public static void 数组循环右移() {
         Scanner sc = new Scanner(System.in);
         int num = sc.nextInt();
@@ -370,15 +373,11 @@ public class 算法测试 {
     }
 
 
-    public static void 最难的问题() {
-        Scanner sc = new Scanner(System.in);
-        String str = sc.nextLine();
-        char[] arrs = str.toCharArray();
-        for (int i = 0; i < arrs.length; i++) {
-
-        }
-    }
-
+    /**
+     * 第一天悟空吃掉桃子总数一半多一个，第二天又将剩下的桃子吃掉一半多一个，
+     * 以后每天吃掉前一天剩下的一半多一个，到第n天准备吃的时候只剩下一个桃子。
+     * 求第一天时有多少个桃子
+     */
     public static void 蟠桃记() {
         Scanner sc = new Scanner(System.in);
         int days = sc.nextInt();
@@ -389,6 +388,9 @@ public class 算法测试 {
         System.out.println(result);
     }
 
+    /**
+     * 有N个人找，有E个人找不到，求有多少种情况
+     */
     public static void 找新娘() {
         Scanner sc = new Scanner(System.in);
         int num = sc.nextInt();
@@ -418,6 +420,10 @@ public class 算法测试 {
         }
     }
 
+    /**
+     * 有N张纸币，其中有一张是假的，假的比真的要轻，
+     * 求最多几次能找到假币
+     */
     public static void 有假币() {
         Scanner sc = new Scanner(System.in);
         int num = sc.nextInt();
@@ -429,6 +435,9 @@ public class 算法测试 {
         System.out.println(result);
     }
 
+    /**
+     * 求一个数的二进制是否是回文数
+     */
     public static void 进制回文数() {
         Scanner sc = new Scanner(System.in);
         int num = sc.nextInt();
@@ -470,6 +479,9 @@ public class 算法测试 {
 
     }
 
+    /**
+     *  求一个数各个位数的和，最后以给定进制数的形式输出
+     */
     public static void 数位和() {
         Scanner sc = new Scanner(System.in);
         int num = sc.nextInt();
@@ -498,6 +510,9 @@ public class 算法测试 {
         System.out.println(stringBuilder.reverse().toString());
     }
 
+    /**
+     * 把给定的数以指定进制输出
+     */
     public static void 外星人的语言() {
         Scanner sc = new Scanner(System.in);
         int num = sc.nextInt();
@@ -517,6 +532,9 @@ public class 算法测试 {
         }
     }
 
+    /**
+     * 求一个数中1的个数
+     */
     public static void 求1数() {
         Scanner sc = new Scanner(System.in);
         int num = sc.nextInt();
@@ -529,19 +547,22 @@ public class 算法测试 {
         }
     }
 
-    //函数：判断是不是素数
-    static boolean isPrime(int number)
-    {
-        for(int i=2;i<number;i++)
-        {
-            if(number%i==0)
-            {
+    /**
+     * 函数：判断是不是素数
+     */
+    static boolean isPrime(int number) {
+        for(int i=2;i<number;i++) {
+            if(number%i==0) {
                 return false;
             }
         }
         return true;
     }
 
+    /**
+     * 将给定的数进行因数分解
+     * @param number
+     */
     public static void 分解因数(int number) {
         for(int i=2;i<number;i++) {
             if(number%i==0) {
@@ -557,6 +578,7 @@ public class 算法测试 {
             }
         }
     }
+
 
     public static void 表达式和素数() {
         Scanner sc = new Scanner(System.in);
@@ -586,6 +608,9 @@ public class 算法测试 {
         //斐波那契
     }
 
+    /**
+     * 斐波那契问题
+     */
     public static void 跳台阶() {
         Scanner sc = new Scanner(System.in);
         int num = sc.nextInt();
@@ -598,13 +623,18 @@ public class 算法测试 {
         System.out.println(arrs[num - 1]);
     }
 
+    /**
+     * 斐波那契问题
+     */
     public static void 母牛的故事() {
         Scanner sc = new Scanner(System.in);
         int year = sc.nextInt();
         //迭代  arr[i] = arr[i - 1] + arr[i - 3]
     }
 
-
+    /**
+     * 斐波那契问题
+     */
     public static void 客似云来() {
         Scanner sc = new Scanner(System.in);
         int from = sc.nextInt();
@@ -622,8 +652,9 @@ public class 算法测试 {
         System.out.println(result);
     }
 
-
-
+    /**
+     * 斐波那契问题
+     */
     public static void NowCoder数列() {
         Scanner sc = new Scanner(System.in);
         int num = sc.nextInt();
@@ -636,6 +667,9 @@ public class 算法测试 {
         System.out.println(arrs[num - 1]);
     }
 
+    /**
+     * 求给定的字符串中有几个“PAT”字符
+     */
     public static void 几个PAT() {
         Scanner sc = new Scanner(System.in);
         String str = sc.nextLine();
@@ -658,6 +692,9 @@ public class 算法测试 {
         System.out.println(result %  1000000007);
     }
 
+    /**
+     * 给一个字符串A和一个字符串B，求A是否完全包含了B，如果不是，少了几个字符，
+     */
     public static void 买珠子() {  //ppRYYGrrYBR2258  YrR8RrY
         Scanner sc = new Scanner(System.in);
         String req = sc.next();
@@ -705,8 +742,6 @@ public class 算法测试 {
         for (int i = 0; i < reqNum; i++) {
             reqArrs[i] = sc.nextInt();
         }
-
-
         for (int i = 0; i < reqNum; i++) {
             int result = 0;
             for (int j = 0; j < stuNum; j++) {
@@ -718,6 +753,10 @@ public class 算法测试 {
         }
     }
 
+    /**
+     * 给定行数，打印对应行规数的正方形，第一行和最后一行全部打印，
+     * 每行的第一个和最后一个字符打印，其他都不打印
+     */
     public static void 打印正方形() {
         Scanner scanner = new Scanner(System.in);
         int lineNum = scanner.nextInt();
@@ -738,7 +777,11 @@ public class 算法测试 {
         }
     }
 
-
+    /**
+     * 给定一个正整数数列，和正整数p，设这个数列中的最大值是M，最小值是m，
+     * 如果M <= m * p，则称这个数列是完美数列。
+     * 给定参数p和一些正整数，求最多能构成多少个完美数列
+     */
     public static void 完美数列() {
         Scanner sc = new Scanner(System.in);
         int num = sc.nextInt();
@@ -762,7 +805,6 @@ public class 算法测试 {
                     max = val;
                 }
             }
-
             num--;
             System.out.println(num);
             if (num== 5) {
@@ -792,7 +834,12 @@ public class 算法测试 {
         System.out.println(result);
     }
 
-   public static void 旧键盘() {
+    /**
+     * 旧键盘上坏了几个键，于是在敲一段文字的时候，对应的字符就不会出现。
+     * 现在给出应该输入的一段文字、以及实际被输入的文字，请你列出
+     * 肯定坏掉的那些键。
+     */
+    public static void 旧键盘() {
         Scanner scanner = new Scanner(System.in);
         String req = scanner.next();
         String fact = scanner.next();
@@ -820,7 +867,8 @@ public class 算法测试 {
 
 
 
-   }
+    }
+
 
     public static void 打印沙漏() {
         Scanner sc = new Scanner(System.in);
@@ -2229,5 +2277,19 @@ class TreeNode {
         this.val = val;
 
     }
+}
 
+/**
+ * 学生类
+ */
+class Students{
+    private String name;
+
+    public String getName() {
+        return name;
+    }
+
+    public void setName(String name) {
+        this.name = name;
+    }
 }

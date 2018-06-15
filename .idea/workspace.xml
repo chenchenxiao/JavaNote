@@ -1,7 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ac849c69-06d6-4e16-8564-33db7c9501da" name="Default" comment="" />
+    <list default="true" id="ac849c69-06d6-4e16-8564-33db7c9501da" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/../JavaNote/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaNote/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaNote/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaNote/src/main/java/错排问题.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaNote/src/main/java/Test.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaNote/src/main/java/com/basic/CAS/笔记.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaNote/src/main/java/com/basic/cas/笔记.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaNote/src/main/java/com/basic/JVM/Class类结构/笔记.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaNote/src/main/java/com/basic/jvm/Class类结构/笔记.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaNote/src/main/java/com/basic/JVM/GC/可恢复对象.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaNote/src/main/java/com/basic/jvm/GC/可恢复对象.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaNote/src/main/java/com/basic/JVM/GC/回收方法区" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaNote/src/main/java/com/basic/jvm/GC/回收方法区" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaNote/src/main/java/com/basic/JVM/GC/垃圾回收算法和收集器.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaNote/src/main/java/com/basic/jvm/GC/垃圾回收算法和收集器.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaNote/src/main/java/com/basic/JVM/GC/对象的可触及性.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaNote/src/main/java/com/basic/jvm/GC/对象的可触及性.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaNote/src/main/java/com/basic/JVM/GC/常用参数.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaNote/src/main/java/com/basic/jvm/GC/常用参数.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaNote/src/main/java/com/basic/JVM/GC/引用" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaNote/src/main/java/com/basic/jvm/GC/引用" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaNote/src/main/java/com/basic/JVM/JVM体系结构与工作方式.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaNote/src/main/java/com/basic/jvm/JVM体系结构与工作方式.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaNote/src/main/java/com/basic/JVM/内存/笔记.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaNote/src/main/java/com/basic/jvm/内存/笔记.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaNote/src/main/java/com/basic/JVM/内存/虚拟机--对象.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaNote/src/main/java/com/basic/jvm/内存/虚拟机--对象.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaNote/src/main/java/com/basic/JVM/内存模型与线程/内存模型与线程" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaNote/src/main/java/com/basic/jvm/内存模型与线程/内存模型与线程" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaNote/src/main/java/com/basic/JVM/类加载/CastTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaNote/src/main/java/com/basic/jvm/类加载/CastTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaNote/src/main/java/com/basic/JVM/类加载/LoadClassTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaNote/src/main/java/com/basic/jvm/类加载/LoadClassTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaNote/src/main/java/com/basic/JVM/类加载/打印Null.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaNote/src/main/java/com/basic/jvm/类加载/打印Null.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaNote/src/main/java/com/basic/JVM/类加载/类加载器.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaNote/src/main/java/com/basic/jvm/类加载/类加载器.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaNote/src/main/java/com/basic/JVM/类加载/类的加载顺序.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaNote/src/main/java/com/basic/jvm/类加载/类的加载顺序.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaNote/src/main/java/com/basic/JVM/类加载/编译时的常量.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaNote/src/main/java/com/basic/jvm/类加载/编译时的常量.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaNote/src/main/java/com/basic/JVM/类加载/静态变量要在当前类.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaNote/src/main/java/com/basic/jvm/类加载/静态变量要在当前类.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaNote/src/main/java/com/basic/JVM/运行时栈桢结构/运行时栈桢结构.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaNote/src/main/java/com/basic/jvm/运行时栈桢结构/运行时栈桢结构.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaNote/src/main/java/com/basic/S.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaNote/src/main/java/com/basic/TCP/三次握手.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaNote/src/main/java/com/basic/tcp/三次握手.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaNote/src/main/java/com/basic/java/容器/Arrays的asList方法.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaNote/src/main/java/com/basic/java/容器/Arrays的asList方法.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaNote/src/main/java/com/basic/java/容器/Collection的addAll方法.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaNote/src/main/java/com/basic/java/容器/Collection的addAll方法.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaNote/src/main/java/com/basic/model/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaNote/src/main/java/com/basic/java/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaNote/src/main/java/com/basic/p.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaNote/src/main/java/com/basic/设计模式/装饰者模式.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaNote/src/main/java/com/basic/设计模式/装饰者模式.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaNote/src/main/java/算法测试.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaNote/src/main/java/算法练习.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -14,47 +46,7 @@
     <SUITE FILE_PATH="coverage/JavaNote$.ic" NAME="算法测试 Coverage Results" MODIFIED="1527743240905" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="算法测试.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../JavaNote/src/main/java/算法测试.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="214" column="48" lean-forward="true" selection-start-line="214" selection-start-column="48" selection-end-line="214" selection-end-column="48" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="二分排序.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../JavaNote/src/main/java/com/basic/算法/排序/二分排序.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="10" column="5" lean-forward="true" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="冒泡排序.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../JavaNote/src/main/java/com/basic/算法/排序/冒泡排序.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="10" column="37" selection-start-line="10" selection-start-column="37" selection-end-line="10" selection-end-column="37" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="快速排序.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/../JavaNote/src/main/java/com/basic/算法/排序/快速排序.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -90,9 +82,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/com/basic/S.java" />
-        <option value="$PROJECT_DIR$/src/main/java/算法测试.java" />
-        <option value="$PROJECT_DIR$/src/main/java/算法测试.java" />
         <option value="$PROJECT_DIR$/src/main/java/算法测试.java" />
         <option value="$PROJECT_DIR$/src/main/java/算法测试.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/basic/TCP/三次握手.txt" />
@@ -141,6 +130,9 @@
         <option value="$PROJECT_DIR$/../JavaNote/src/main/java/com/basic/算法/排序/二分排序.java" />
         <option value="$PROJECT_DIR$/../JavaNote/src/main/java/com/basic/算法/排序/冒泡排序.java" />
         <option value="$PROJECT_DIR$/../JavaNote/src/main/java/com/basic/算法/排序/快速排序.java" />
+        <option value="$PROJECT_DIR$/../JavaNote/src/main/java/com/basic/java/Student.java" />
+        <option value="$PROJECT_DIR$/../JavaNote/src/main/java/算法练习.java" />
+        <option value="$PROJECT_DIR$/../JavaNote/src/main/java/错排问题.java" />
       </list>
     </option>
   </component>
@@ -186,31 +178,6 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaNote" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaNote" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="basic" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaNote" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaNote" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="basic" type="462c0819:PsiDirectoryNode" />
-              <item name="高并发" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="JavaNote" type="b2602c69:ProjectViewProjectNode" />
-              <item name="JavaNote" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="算法测试.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
             </path>
             <path>
               <item name="JavaNote" type="b2602c69:ProjectViewProjectNode" />
@@ -280,7 +247,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.冒泡排序">
+  <component name="RunManager" selected="Application.算法练习">
     <configuration name="算法测试" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="算法测试" />
       <module name="JavaNote" />
@@ -297,8 +264,13 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
+    <configuration name="算法练习" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="算法练习" />
+      <module name="JavaNote" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$/../JavaNote" />
+    </configuration>
+    <configuration name="错排问题" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="错排问题" />
       <module name="JavaNote" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$/src/main/java" />
     </configuration>
@@ -394,29 +366,6 @@
       </option>
       <patterns />
     </configuration>
-    <configuration name="IOC测试.测试IOC" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="JavaNote" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="spring.test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="spring.test" />
-      <option name="MAIN_CLASS_NAME" value="spring.test.IOC测试" />
-      <option name="METHOD_NAME" value="测试IOC" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <patterns />
-    </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
@@ -457,18 +406,18 @@
     </configuration>
     <list>
       <item itemvalue="Application.算法测试" />
-      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.错排问题" />
       <item itemvalue="Application.冒泡排序" />
-      <item itemvalue="JUnit.IOC测试.测试IOC" />
+      <item itemvalue="Application.算法练习" />
       <item itemvalue="JUnit.AOP测试.testA" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.算法练习" />
         <item itemvalue="Application.冒泡排序" />
         <item itemvalue="Application.算法测试" />
-        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.错排问题" />
         <item itemvalue="JUnit.AOP测试.testA" />
-        <item itemvalue="JUnit.IOC测试.测试IOC" />
       </list>
     </recent_temporary>
   </component>
@@ -506,7 +455,7 @@
       <workItem from="1528381642345" duration="6325000" />
       <workItem from="1528622970167" duration="3084000" />
       <workItem from="1528708151361" duration="18350000" />
-      <workItem from="1528976884828" duration="4720000" />
+      <workItem from="1528976884828" duration="7387000" />
     </task>
     <task id="LOCAL-00001" summary="java笔记">
       <created>1524453667367</created>
@@ -515,7 +464,14 @@
       <option name="project" value="LOCAL" />
       <updated>1524453667367</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="java基础笔记">
+      <created>1529030549142</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1529030549142</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -551,11 +507,10 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="356526000" />
+    <option name="totallyTimeSpent" value="359193000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
@@ -567,7 +522,7 @@
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="4" />
-      <window_info anchor="bottom" id="Debug" order="3" visible="true" weight="0.33368757" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.33368757" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Messages" order="12" weight="0.32943678" />
       <window_info anchor="right" id="Palette&#9;" order="8" />
@@ -575,7 +530,7 @@
       <window_info anchor="bottom" id="Java Enterprise" order="10" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
       <window_info anchor="bottom" id="Version Control" order="11" weight="0.32731137" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.35281616" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.35281616" />
       <window_info anchor="bottom" id="Spring" order="7" />
       <window_info anchor="bottom" id="Terminal" order="8" />
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49913943" visible="true" weight="0.24583334" />
@@ -606,25 +561,12 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="java笔记" />
-    <option name="LAST_COMMIT_MESSAGE" value="java笔记" />
+    <MESSAGE value="java基础笔记" />
+    <option name="LAST_COMMIT_MESSAGE" value="java基础笔记" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/算法测试.java</url>
-          <line>286</line>
-          <properties />
-          <option name="timeStamp" value="189" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/算法测试.java</url>
-          <line>205</line>
-          <properties />
-          <option name="timeStamp" value="199" />
-        </line-breakpoint>
-      </breakpoints>
-      <option name="time" value="203" />
+      <option name="time" value="207" />
     </breakpoint-manager>
     <watches-manager>
       <configuration name="Application">
@@ -633,34 +575,6 @@
     </watches-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/../JavaNote/src/main/java/com/basic/S.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="96" column="16" selection-start-line="96" selection-start-column="16" selection-end-line="96" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../JavaNote/src/main/java/com/basic/算法/KMP算法.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="570">
-          <caret line="19" column="20" selection-start-line="19" selection-start-column="20" selection-end-line="19" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../JavaNote/src/main/java/com/basic/设计模式/单例模式.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-90">
-          <caret line="44" column="32" lean-forward="true" selection-start-line="44" selection-start-column="32" selection-end-line="44" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../JavaNote/src/main/java/com/basic/java/String字符串/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="456">
-          <caret line="19" column="41" selection-start-line="13" selection-start-column="8" selection-end-line="19" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../JavaNote/src/main/java/spring/entity/User.java" />
     <entry file="file://$PROJECT_DIR$/../JavaNote/src/main/java/spring/entity/Enb.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -758,20 +672,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../JavaNote/src/main/java/com/basic/TCP/三次握手.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../JavaNote/src/main/java/com/basic/java/IO流/笔记.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../JavaNote/src/main/java/com/basic/java/String字符串/笔记.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
@@ -842,42 +742,42 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../JavaNote/src/main/java/com/basic/JVM/Class类结构/笔记.txt">
+    <entry file="file://$PROJECT_DIR$/../JavaNote/src/main/java/com/basic/jvm/Class类结构/笔记.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
           <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../JavaNote/src/main/java/com/basic/JVM/GC/回收方法区">
+    <entry file="file://$PROJECT_DIR$/../JavaNote/src/main/java/com/basic/jvm/GC/回收方法区">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
           <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../JavaNote/src/main/java/com/basic/JVM/GC/常用参数.java">
+    <entry file="file://$PROJECT_DIR$/../JavaNote/src/main/java/com/basic/jvm/GC/常用参数.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
           <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../JavaNote/src/main/java/com/basic/JVM/GC/对象的可触及性.java">
+    <entry file="file://$PROJECT_DIR$/../JavaNote/src/main/java/com/basic/jvm/GC/对象的可触及性.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
           <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../JavaNote/src/main/java/com/basic/JVM/GC/引用">
+    <entry file="file://$PROJECT_DIR$/../JavaNote/src/main/java/com/basic/jvm/GC/引用">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
           <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../JavaNote/src/main/java/com/basic/JVM/GC/垃圾回收算法和收集器.txt">
+    <entry file="file://$PROJECT_DIR$/../JavaNote/src/main/java/com/basic/jvm/GC/垃圾回收算法和收集器.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1369">
           <caret line="235" column="38" selection-start-line="235" selection-start-column="38" selection-end-line="235" selection-end-column="38" />
@@ -926,14 +826,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../JavaNote/src/main/java/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="780">
-          <caret line="26" column="1" lean-forward="true" selection-start-line="26" selection-start-column="1" selection-end-line="26" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../JavaNote/src/main/java/com/basic/CAS/笔记.txt">
+    <entry file="file://$PROJECT_DIR$/../JavaNote/src/main/java/com/basic/cas/笔记.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="750">
           <caret line="25" column="26" selection-start-line="25" selection-start-column="26" selection-end-line="25" selection-end-column="26" />
@@ -945,16 +838,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="232">
           <caret line="28" column="28" selection-start-line="28" selection-start-column="28" selection-end-line="28" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../JavaNote/src/main/java/算法测试.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="214" column="48" lean-forward="true" selection-start-line="214" selection-start-column="48" selection-end-line="214" selection-end-column="48" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -976,6 +859,120 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
           <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../JavaNote/src/main/java/com/basic/tcp/三次握手.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../JavaNote/src/main/java/com/basic/java/Student.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../JavaNote/src/main/java/com/basic/java/IO流/笔记.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="9" column="20" lean-forward="true" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../JavaNote/src/main/java/com/basic/p.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="43" column="6" selection-start-line="43" selection-start-column="6" selection-end-line="43" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../JavaNote/src/main/java/com/basic/S.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../JavaNote/src/main/java/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../JavaNote/src/main/java/算法练习.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-8711">
+          <caret line="979" lean-forward="true" selection-start-line="979" selection-end-line="979" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#6712#7395#0" />
+            <element signature="e#7401#8017#0" />
+            <element signature="e#8023#8856#0" />
+            <element signature="e#8862#9523#0" />
+            <element signature="e#9529#9812#0" />
+            <element signature="e#9818#10527#0" />
+            <element signature="e#10533#11447#0" />
+            <element signature="e#11943#12420#0" />
+            <element signature="e#12426#12647#0" />
+            <element signature="e#12653#12904#0" />
+            <element signature="e#12910#14144#0" />
+            <element signature="e#14150#14962#0" />
+            <element signature="e#14968#15543#0" />
+            <element signature="e#15549#15833#0" />
+            <element signature="e#16241#16728#0" />
+            <element signature="e#16734#17307#0" />
+            <element signature="e#17512#17840#0" />
+            <element signature="e#17846#18005#0" />
+            <element signature="e#18012#18470#0" />
+            <element signature="e#18478#18814#0" />
+            <element signature="e#18820#19458#0" />
+            <element signature="e#20597#21297#0" />
+            <element signature="e#21303#22025#0" />
+            <element signature="e#22032#23677#0" />
+            <element signature="e#24121#25053#0" />
+            <element signature="e#24619#26210#0" />
+            <element signature="e#27387#27923#0" />
+            <element signature="e#29817#29818#0" expanded="true" />
+            <element signature="e#29851#29852#0" expanded="true" />
+            <element signature="e#29890#29891#0" expanded="true" />
+            <element signature="e#29928#29929#0" expanded="true" />
+            <element signature="e#29961#29962#0" expanded="true" />
+            <element signature="e#29995#29996#0" expanded="true" />
+            <element signature="e#30036#30037#0" expanded="true" />
+            <element signature="e#30074#30075#0" expanded="true" />
+            <element signature="e#30109#30110#0" expanded="true" />
+            <element signature="e#30145#30146#0" expanded="true" />
+            <element signature="e#30190#30191#0" expanded="true" />
+            <element signature="e#30232#30233#0" expanded="true" />
+            <element signature="e#35806#35807#0" expanded="true" />
+            <element signature="e#35840#35841#0" expanded="true" />
+            <element signature="e#35879#35880#0" expanded="true" />
+            <element signature="e#35917#35918#0" expanded="true" />
+            <element signature="e#36141#36142#0" expanded="true" />
+            <element signature="e#36178#36179#0" expanded="true" />
+            <element signature="e#36223#36224#0" expanded="true" />
+            <element signature="e#36267#36268#0" expanded="true" />
+            <element signature="e#36297#36298#0" expanded="true" />
+            <element signature="e#36330#36331#0" expanded="true" />
+            <element signature="e#36367#36368#0" expanded="true" />
+            <element signature="e#36403#36404#0" expanded="true" />
+            <element signature="e#36434#36435#0" expanded="true" />
+            <element signature="e#36468#36469#0" expanded="true" />
+            <element signature="e#36507#36508#0" expanded="true" />
+            <element signature="e#36545#36546#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../JavaNote/src/main/java/错排问题.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="379">
+          <caret line="34" column="33" selection-start-line="3" selection-start-column="4" selection-end-line="34" selection-end-column="33" />
         </state>
       </provider>
     </entry>

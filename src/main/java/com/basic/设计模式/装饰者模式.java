@@ -1,7 +1,5 @@
 package com.basic.设计模式;
 
-import com.basic.S;
-
 /**
  * @author Blse
  * @date 2018/4/6

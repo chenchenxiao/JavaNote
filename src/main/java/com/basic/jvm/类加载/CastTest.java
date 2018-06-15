@@ -1,4 +1,4 @@
-package com.basic.JVM.类加载;
+package com.basic.jvm.类加载;
 
 /**
  * @author Blse
