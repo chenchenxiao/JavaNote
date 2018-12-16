@@ -2,7 +2,7 @@ String是一种引用类型的数据，具有不可变性(只读性)
 
 当把String类型的数据作为参数传递时，实际只是传递一份String对象引用的拷贝
 
-当用 "+" 连接符来拼接字符串时，是创建一个新的String对象，拼接的实现是编译器通过创建一个StringBuilder对象，   ·/然后通过append方法来拼接，最后toString得到String对象，
+当用 "+" 连接符来拼接字符串时，是创建一个新的String对象，拼接的实现是编译器通过创建一个StringBuilder对象，然后通过append方法来拼接，最后toString得到String对象，
 
 Formatter对象是用来格式化输出的
 

@@ -79,7 +79,17 @@ public class 算法练习 {
 //        ListNode listNode1 = ReverseListDiGui(listNode);
 //        System.out.println();
         //--------------
-//        ListNode merge = Merge(listNode2, listNode);
+        ListNode listNode = new ListNode(1);
+        ListNode listNode2 = new ListNode(3);
+        ListNode listNode3 = new ListNode(5);
+        listNode.next = listNode2;
+        listNode2.next = listNode3;
+        ListNode listNode1 = new ListNode(1);
+        ListNode listNode5 = new ListNode(3);
+        ListNode listNode6 = new ListNode(5);
+        listNode1.next = listNode5;
+        listNode5.next = listNode6;
+        ListNode merge = Merge(listNode, listNode1);
 //        System.out.println();
         //--------------
 //        int[] array = {1,2,3,2,2,2,5,4,2};
@@ -176,12 +186,12 @@ public class 算法练习 {
 //        分解因数(sc.nextInt());
 //        求1数();
 //        外星人的语言();
-        数位和();
+//        数位和();
 //        进制回文数();
 //        有假币();
 //          找新娘();
 //        蟠桃记();
-//          找大王();
+          找大王();
 //        数组循环右移();
 //        素数个数();
 //          素数和();
@@ -2041,6 +2051,12 @@ public class 算法练习 {
     }
 
     public static ListNode Merge(ListNode list1,ListNode list2) {
+        if (list1 == null) {
+            return list2;
+        }
+        if (list2 == null) {
+            return list1;
+        }
         ListNode listNode = null;
         if (list1.val < list2.val) {
             listNode = list1;
@@ -2063,15 +2079,11 @@ public class 算法练习 {
                 listNode = listNode.next;
             }
         }
-        while (list1 != null) {
-               listNode.next = list1.next;
-               list1 = list1.next;
-               listNode = listNode.next;
+        if (list1 == null) {
+               listNode.next = list2;
         }
-        while (list2 != null) {
-            listNode.next = list2;
-            list2 = list2.next;
-            listNode = listNode.next;
+        if (list2 == null) {
+            listNode.next = list1;
         }
         return result;
     }
@@ -2258,6 +2270,8 @@ public class 算法练习 {
         }
         return list;
     }
+
+
 }
 
 class ListNode {

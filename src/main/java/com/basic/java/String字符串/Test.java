@@ -17,7 +17,7 @@ public class Test {
         String str4 = "helloworld";
         String str5 = "hello" + "world";
         System.out.println(str5 == str4);
-        System.out.println(str1 == str2);
+        System.out.println(str4 == str3);
     }
 }
 

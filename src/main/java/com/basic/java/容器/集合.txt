@@ -5,7 +5,6 @@ List继承自Collection接口，有两种类型的List
 
 Set继承自Collection接口，不保存重复的元素
     HashSet:使用散列函数来存储，无序
-
     TreeSet:将元素存储在红黑树结构中，有序
 
 迭代器
@@ -29,7 +28,7 @@ HashMap
         3、HashMap是非线程安全的，所以一旦在使用跌代器时，有其他线程修改了Map，就会报错ConcurrentModificationException
 
         4、HashMap在存储值时，如果key的hash值相同，也就是在数组中的位置相同，这就是冲突，HashMap以链表的存储结构来解决冲突
-           使用使用不可变的、声明作final的对象，并且采用合适的equals()和hashCode()方法的话，将会减少碰撞的发生，提高效率。不可变性使得能够缓存不           同键的hashcode，这将提高整个获取对象的速度，使用String，Interger这样的wrapper类作为键是非常好的选择。
+           使用不可变的、声明作final的对象，并且采用合适的equals()和hashCode()方法的话，将会减少碰撞的发生，提高效率。不可变性使得能够缓存不           同键的hashcode，这将提高整个获取对象的速度，使用String，Interger这样的wrapper类作为键是非常好的选择。
 
         5、、构造器：
             1）无参构造器：使用默认的加载因子和默认的初始容量

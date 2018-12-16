@@ -2,37 +2,77 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ac849c69-06d6-4e16-8564-33db7c9501da" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/../JavaNote/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaNote/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JavaNote/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaNote/src/main/java/错排问题.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JavaNote/src/main/java/Test.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JavaNote/src/main/java/com/basic/CAS/笔记.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaNote/src/main/java/com/basic/cas/笔记.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JavaNote/src/main/java/com/basic/JVM/Class类结构/笔记.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaNote/src/main/java/com/basic/jvm/Class类结构/笔记.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JavaNote/src/main/java/com/basic/JVM/GC/可恢复对象.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaNote/src/main/java/com/basic/jvm/GC/可恢复对象.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JavaNote/src/main/java/com/basic/JVM/GC/回收方法区" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaNote/src/main/java/com/basic/jvm/GC/回收方法区" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JavaNote/src/main/java/com/basic/JVM/GC/垃圾回收算法和收集器.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaNote/src/main/java/com/basic/jvm/GC/垃圾回收算法和收集器.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JavaNote/src/main/java/com/basic/JVM/GC/对象的可触及性.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaNote/src/main/java/com/basic/jvm/GC/对象的可触及性.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JavaNote/src/main/java/com/basic/JVM/GC/常用参数.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaNote/src/main/java/com/basic/jvm/GC/常用参数.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JavaNote/src/main/java/com/basic/JVM/GC/引用" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaNote/src/main/java/com/basic/jvm/GC/引用" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JavaNote/src/main/java/com/basic/JVM/JVM体系结构与工作方式.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaNote/src/main/java/com/basic/jvm/JVM体系结构与工作方式.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JavaNote/src/main/java/com/basic/JVM/内存/笔记.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaNote/src/main/java/com/basic/jvm/内存/笔记.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JavaNote/src/main/java/com/basic/JVM/内存/虚拟机--对象.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaNote/src/main/java/com/basic/jvm/内存/虚拟机--对象.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JavaNote/src/main/java/com/basic/JVM/内存模型与线程/内存模型与线程" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaNote/src/main/java/com/basic/jvm/内存模型与线程/内存模型与线程" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JavaNote/src/main/java/com/basic/JVM/类加载/CastTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaNote/src/main/java/com/basic/jvm/类加载/CastTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JavaNote/src/main/java/com/basic/JVM/类加载/LoadClassTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaNote/src/main/java/com/basic/jvm/类加载/LoadClassTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JavaNote/src/main/java/com/basic/JVM/类加载/打印Null.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaNote/src/main/java/com/basic/jvm/类加载/打印Null.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JavaNote/src/main/java/com/basic/JVM/类加载/类加载器.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaNote/src/main/java/com/basic/jvm/类加载/类加载器.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JavaNote/src/main/java/com/basic/JVM/类加载/类的加载顺序.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaNote/src/main/java/com/basic/jvm/类加载/类的加载顺序.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JavaNote/src/main/java/com/basic/JVM/类加载/编译时的常量.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaNote/src/main/java/com/basic/jvm/类加载/编译时的常量.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JavaNote/src/main/java/com/basic/JVM/类加载/静态变量要在当前类.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaNote/src/main/java/com/basic/jvm/类加载/静态变量要在当前类.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JavaNote/src/main/java/com/basic/JVM/运行时栈桢结构/运行时栈桢结构.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaNote/src/main/java/com/basic/jvm/运行时栈桢结构/运行时栈桢结构.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JavaNote/src/main/java/com/basic/S.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JavaNote/src/main/java/com/basic/TCP/三次握手.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaNote/src/main/java/com/basic/tcp/三次握手.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JavaNote/src/main/java/com/basic/java/容器/Arrays的asList方法.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaNote/src/main/java/com/basic/java/容器/Arrays的asList方法.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JavaNote/src/main/java/com/basic/java/容器/Collection的addAll方法.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaNote/src/main/java/com/basic/java/容器/Collection的addAll方法.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JavaNote/src/main/java/com/basic/model/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaNote/src/main/java/com/basic/java/Student.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JavaNote/src/main/java/com/basic/p.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JavaNote/src/main/java/com/basic/设计模式/装饰者模式.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaNote/src/main/java/com/basic/设计模式/装饰者模式.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../JavaNote/src/main/java/算法测试.java" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaNote/src/main/java/算法练习.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/basic/test/Test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/basic/test/Test2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/basic/算法/左程云算法/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/basic/算法/左程云算法/基础一/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/basic/算法/左程云算法/基础一/冒泡排序.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/basic/算法/左程云算法/基础一/堆排序.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/basic/算法/左程云算法/基础一/小和问题.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/basic/算法/左程云算法/基础一/归并排序.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/basic/算法/左程云算法/基础一/快速排序.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/basic/算法/左程云算法/基础一/插入排序.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/basic/算法/左程云算法/基础一/桶的应用.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/basic/算法/左程云算法/基础一/荷兰国旗问题.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/basic/算法/左程云算法/基础一/选择排序.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/basic/算法/左程云算法/基础三/RandomPool.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/basic/算法/左程云算法/基础三/切金条.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/basic/算法/左程云算法/基础三/前缀树.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/basic/算法/左程云算法/基础三/字符串全排列.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/basic/算法/左程云算法/基础三/并查集.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/basic/算法/左程云算法/基础三/打印子字符串.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/basic/算法/左程云算法/基础三/最大价值.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/basic/算法/左程云算法/基础三/最大钱数.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/basic/算法/左程云算法/基础三/最小路径和.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/basic/算法/左程云算法/基础三/母牛数量.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/basic/算法/左程云算法/基础三/汉诺塔.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/basic/算法/左程云算法/基础三/累加aim.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/basic/算法/左程云算法/基础三/逆序栈.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/basic/算法/左程云算法/基础二/DoubleNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/basic/算法/左程云算法/基础二/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/basic/算法/左程云算法/基础二/QuezeStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/basic/算法/左程云算法/基础二/之字型打印数组.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/basic/算法/左程云算法/基础二/从外到内遍历二维数组.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/basic/算法/左程云算法/基础二/划分链表.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/basic/算法/左程云算法/基础二/回文链表.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/basic/算法/左程云算法/基础二/打印链表公共部分.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/basic/算法/左程云算法/基础二/找相交节点.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/basic/算法/左程云算法/基础二/拷贝特殊链表.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/basic/算法/左程云算法/基础二/数组实现队列.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/basic/算法/左程云算法/基础二/数组栈取最小数.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/basic/算法/左程云算法/基础二/旋转90度遍历数组.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/basic/算法/左程云算法/基础二/猫狗队列.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/basic/算法/左程云算法/基础二/矩阵查数.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/basic/算法/左程云算法/基础二/链表反转.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/basic/算法/左程云算法/树/TreeNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/basic/算法/左程云算法/树/二叉树的遍历.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/basic/算法/左程云算法/树/完全二叉树.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/basic/算法/左程云算法/树/平衡二叉树.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/basic/算法/左程云算法/树/序列化与反序列化.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/basic/算法/左程云算法/树/找后继节点.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/basic/算法/左程云算法/树/搜索二叉树.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/basic/算法/练习/分解整数.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/basic/算法/练习/十位平方数.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/basic/算法/练习/字符串匹配.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/basic/算法/练习/安排机器.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/basic/算法/练习/小Q的歌单.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/basic/算法/练习/小计算器.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/basic/算法/练习/整除.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/basic/算法/练习/最大子序列.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/basic/算法/练习/神奇数.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/basic/算法/练习/纸牌游戏.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/basic/算法/练习/贪吃的小Q.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/basic/java/String字符串/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/basic/java/String字符串/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/basic/java/String字符串/笔记.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/basic/java/String字符串/笔记.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/basic/java/内部类/笔记.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/basic/java/内部类/笔记.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/basic/java/多线程/笔记.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/basic/java/多线程/笔记.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/basic/java/容器/集合.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/basic/java/容器/集合.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/basic/jvm/Class类结构/笔记.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/basic/jvm/Class类结构/笔记.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/basic/jvm/GC/垃圾回收算法和收集器.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/basic/jvm/GC/垃圾回收算法和收集器.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/basic/jvm/内存/笔记.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/basic/jvm/内存/笔记.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/basic/设计模式/笔记.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/basic/设计模式/笔记.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/算法练习.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/算法练习.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -43,10 +83,22 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/JavaNote$.ic" NAME="算法测试 Coverage Results" MODIFIED="1527743240905" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/JavaNote$.ic" NAME="找相交节点 Coverage Results" MODIFIED="1543377634401" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.basic.算法.左程云算法.基础二.*</FILTER>
+    </SUITE>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="剑指offer.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/basic/算法/剑指offer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="231">
+              <caret line="7" column="20" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -57,82 +109,124 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>clear(</find>
-      <find>remove(</find>
-      <find>result</find>
-      <find>replaceFirst(</find>
-      <find>输入</find>
-      <find>enb</find>
-      <find>hunIndex</find>
-      <find>beanIndex</find>
-      <find>binnum</find>
-      <find>wait(</find>
-      <find>toString(</find>
-      <find>toString()</find>
+      <find>re</find>
+      <find>add(</find>
+      <find>System</find>
+      <find>睡眠</find>
+      <find>等待</find>
+      <find>aaaaaaa</find>
+      <find>开始</find>
+      <find>int</find>
+      <find>arrs[2]</find>
+      <find>parseInt</find>
+      <find>chage</find>
+      <find>arrs</find>
+      <find>size</find>
+      <find>prititon</find>
+      <find>dC</find>
+      <find>last</find>
+      <find>arr[0].length</find>
+      <find>arr.length</find>
+      <find>head2</find>
+      <find>head</find>
+      <find>right2</find>
+      <find>fast</find>
+      <find>slow</find>
+      <find>temp</find>
+      <find>res</find>
+      <find>inorder</find>
+      <find>pre</find>
+      <find>postorder</find>
+      <find>TreeTreeNode</find>
+      <find>getSuccessorTreeNode</find>
     </findStrings>
     <replaceStrings>
       <replace>beanIndex</replace>
       <replace>bearIndex</replace>
       <replace>bin</replace>
+      <replace>long</replace>
+      <replace>sc.next()</replace>
+      <replace>change</replace>
+      <replace>arr</replace>
+      <replace>heapSize</replace>
+      <replace>parititon</replace>
+      <replace>d</replace>
+      <replace>pre</replace>
+      <replace>two</replace>
+      <replace>one</replace>
+      <replace>right2</replace>
+      <replace>right</replace>
+      <replace>n1</replace>
+      <replace>n2</replace>
+      <replace>n3</replace>
+      <replace>res</replace>
+      <replace>inOrder</replace>
+      <replace>preOrder</replace>
+      <replace>postOrder</replace>
+      <replace>TreeNode</replace>
+      <replace>getSuccessorNode</replace>
     </replaceStrings>
+    <dirStrings>
+      <dir>K:\JavaNote\src\main\java\com\basic\算法\线性表</dir>
+    </dirStrings>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../JavaNote" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/main/java/算法测试.java" />
-        <option value="$PROJECT_DIR$/src/main/java/算法测试.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/basic/TCP/三次握手.txt" />
-        <option value="$PROJECT_DIR$/src/main/java/com/basic/设计模式/笔记.txt" />
-        <option value="$PROJECT_DIR$/src/main/java/算法测试.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/basic/算法/KMP算法.java" />
-        <option value="$PROJECT_DIR$/src/main/java/算法测试.java" />
-        <option value="$PROJECT_DIR$/src/main/java/算法测试.java" />
-        <option value="$PROJECT_DIR$/src/main/java/算法测试.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/basic/算法/KMP算法.java" />
-        <option value="$PROJECT_DIR$/src/main/java/算法测试.java" />
-        <option value="$PROJECT_DIR$/src/main/java/算法测试.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/basic/java/String字符串/Test.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/basic/设计模式/笔记.txt" />
-        <option value="$PROJECT_DIR$/src/main/java/算法测试.java" />
-        <option value="$PROJECT_DIR$/src/main/java/spring/entity/EnB.java" />
-        <option value="$PROJECT_DIR$/src/main/java/spring/entity/User.java" />
-        <option value="$PROJECT_DIR$/src/main/java/spring/entity/EnC.java" />
-        <option value="$PROJECT_DIR$/src/main/java/spring/entity/Enb.java" />
-        <option value="$PROJECT_DIR$/src/main/java/spring/IOC测试.java" />
-        <option value="$PROJECT_DIR$/src/main/java/spring/entity/EnA.java" />
-        <option value="$PROJECT_DIR$/src/main/java/spring/entity/enc.java" />
-        <option value="$PROJECT_DIR$/src/main/java/spring/AOP/Log.java" />
-        <option value="$PROJECT_DIR$/src/main/java/spring/AOP/ServiceImpl.java" />
-        <option value="$PROJECT_DIR$/src/main/java/spring/test/IOC测试.java" />
-        <option value="$PROJECT_DIR$/src/main/java/spring/test/AOP测试.java" />
-        <option value="$PROJECT_DIR$/src/main/resources/applicationContext.xml" />
-        <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/src/main/java/算法测试.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/basic/设计模式/笔记.txt" />
-        <option value="$PROJECT_DIR$/src/main/java/com/basic/设计模式/笔记.txt" />
-        <option value="$PROJECT_DIR$/src/main/java/算法测试.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/basic/CAS/笔记.txt" />
-        <option value="$PROJECT_DIR$/src/main/java/com/basic/java/多线程/锁对象.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/basic/java/多线程/笔记.txt" />
-        <option value="$PROJECT_DIR$/src/main/java/com/basic/java/多线程/并发.txt" />
-        <option value="$PROJECT_DIR$/src/main/java/com/basic/java/容器/集合.txt" />
-        <option value="$PROJECT_DIR$/src/main/java/算法测试.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/basic/java/正则/Test.java" />
-        <option value="$PROJECT_DIR$/src/main/java/Main.java" />
-        <option value="$PROJECT_DIR$/src/main/java/算法测试.java" />
-        <option value="$PROJECT_DIR$/src/main/java/算法测试.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/basic/高并发/队列队列.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/basic/高并发/三个线程.java" />
-        <option value="$PROJECT_DIR$/src/main/java/算法测试.java" />
-        <option value="$PROJECT_DIR$/../JavaNote/src/main/java/com/basic/算法/排序/二分排序.java" />
-        <option value="$PROJECT_DIR$/../JavaNote/src/main/java/com/basic/算法/排序/冒泡排序.java" />
-        <option value="$PROJECT_DIR$/../JavaNote/src/main/java/com/basic/算法/排序/快速排序.java" />
-        <option value="$PROJECT_DIR$/../JavaNote/src/main/java/com/basic/java/Student.java" />
-        <option value="$PROJECT_DIR$/../JavaNote/src/main/java/算法练习.java" />
-        <option value="$PROJECT_DIR$/../JavaNote/src/main/java/错排问题.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/basic/算法/左程云算法/基础一/选择排序.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/basic/算法/左程云算法/基础一/插入排序.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/basic/算法/左程云算法/基础一/冒泡排序.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/basic/算法/左程云算法/基础一/归并排序.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/basic/算法/左程云算法/基础一/小和问题.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/basic/算法/左程云算法/基础一/荷兰国旗问题.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/basic/算法/左程云算法/基础一/快速排序.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/basic/算法/左程云算法/基础一/堆排序.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/basic/算法/左程云算法/基础二/数组实现队列.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/basic/算法/左程云算法/基础二/数组队列取最小数.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/basic/算法/左程云算法/基础二/QuezeStack.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/basic/算法/左程云算法/基础二/猫狗队列.java" />
+        <option value="L:/牛客网算法/初级班代码ppt/新基础课第3、4节代码/class_03/Code_06_PrintMatrixSpiralOrder.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/basic/算法/左程云算法/基础二/从外到内遍历二维数组.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/basic/算法/左程云算法/基础一/桶的应用.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/basic/算法/左程云算法/基础一/Test.java" />
+        <option value="L:/牛客网算法/初级班代码ppt/新基础课第3、4节代码/class_03/Code_05_RotateMatrix.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/basic/算法/左程云算法/基础二/旋转90度遍历数组.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/basic/算法/左程云算法/基础二/之字型打印数组.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/basic/算法/左程云算法/基础二/矩阵查数.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/basic/算法/左程云算法/基础二/DoubleNode.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/basic/算法/左程云算法/基础二/链表反转.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/basic/算法/左程云算法/基础二/Node.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/basic/算法/左程云算法/基础二/打印链表公共部分.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/basic/算法/左程云算法/基础二/回文链表.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/basic/算法/左程云算法/基础二/划分链表.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/basic/算法/左程云算法/基础二/拷贝特殊链表.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/basic/算法/左程云算法/基础二/找相交节点.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/basic/算法/左程云算法/基础二/数组栈取最小数.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/basic/算法/左程云算法/TreeNode.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/basic/算法/左程云算法/Test.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/basic/算法/左程云算法/树/找后继节点.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/basic/算法/左程云算法/树/序列化与反序列化.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/basic/算法/左程云算法/树/平衡二叉树.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/basic/算法/左程云算法/树/二叉树的遍历.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/basic/算法/左程云算法/树/搜索二叉树.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/basic/算法/左程云算法/树/求完全二叉树的节点数.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/basic/算法/左程云算法/树/完全二叉树.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/basic/算法/左程云算法/基础三/RandomPool.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/basic/算法/左程云算法/基础三/并查集.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/basic/算法/左程云算法/基础三/前缀树.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/basic/算法/左程云算法/基础三/切金条.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/basic/算法/左程云算法/基础三/汉诺塔.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/basic/算法/左程云算法/基础三/母牛数量.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/basic/算法/左程云算法/基础三/最小路径和.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/basic/算法/左程云算法/基础三/逆序栈.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/basic/算法/左程云算法/基础三/最大钱数.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/basic/算法/左程云算法/基础三/打印子字符串.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/basic/算法/左程云算法/基础三/字符串全排列.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/basic/算法/左程云算法/基础三/累加aim.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/basic/算法/左程云算法/基础三/最大价值.java" />
       </list>
     </option>
   </component>
@@ -143,17 +237,22 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="132" />
-    <option name="y" value="32" />
-    <option name="width" value="1678" />
-    <option name="height" value="1008" />
+    <option name="x" value="863" />
+    <option name="y" value="115" />
+    <option name="width" value="960" />
+    <option name="height" value="520" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -184,44 +283,45 @@
               <item name="JavaNote" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="basic" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="JavaNote" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="JavaNote" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="basic" type="462c0819:PsiDirectoryNode" />
+              <item name="算法" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="JavaNote" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: org.springframework:spring-beans:4.3.3.RELEASE" type="70bed36:NamedLibraryElementNode" />
-            </path>
-            <path>
-              <item name="JavaNote" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="Maven: org.springframework:spring-beans:4.3.3.RELEASE" type="70bed36:NamedLibraryElementNode" />
-              <item name="spring-beans-4.3.3.RELEASE.jar" type="462c0819:PsiDirectoryNode" />
+              <item name="JavaNote" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="basic" type="462c0819:PsiDirectoryNode" />
+              <item name="题目" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
-      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="SearchEverywhereHistoryKey" value="String&#9;FILE&#9;jar://C:/Program Files/Java/jdk1.8.0_101/src.zip!/java/lang/String.java&#10;Object&#9;PSI&#9;JAVA://java.lang.Object&#10;Math&#9;null&#9;null&#10;LinkedLi&#9;PSI&#9;JAVA://java.util.LinkedList&#10;ArrayLis&#9;FILE&#9;jar://C:/Program Files/Java/jdk1.8.0_101/src.zip!/java/util/ArrayList.java&#10;Scanner&#9;PSI&#9;JAVA://java.util.Scanner&#10;hashm&#9;PSI&#9;JAVA://java.util.HashMap" />
+    <property name="SearchEverywhereHistoryKey" value="Priority&#9;PSI&#9;JAVA://java.util.PriorityQueue&#10;ArrayLis&#9;PSI&#9;JAVA://java.util.ArrayList&#10;String&#9;FILE&#9;jar://C:/Program Files/Java/jdk1.8.0_101/src.zip!/java/lang/String.java&#10;Object&#9;PSI&#9;JAVA://java.lang.Object&#10;Math&#9;null&#9;null&#10;LinkedLi&#9;PSI&#9;JAVA://java.util.LinkedList&#10;Scanner&#9;PSI&#9;JAVA://java.util.Scanner&#10;hashm&#9;PSI&#9;JAVA://java.util.HashMap" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="extract.method.default.visibility" value="private" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../JavaNote" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="fileTemplates" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
     <key name="OPEN_URL_DIALOG">
@@ -247,51 +347,58 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.算法练习">
-    <configuration name="算法测试" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="算法测试" />
+  <component name="RunManager" selected="Application.最大价值">
+    <configuration name="最小路径和" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.basic.算法.左程云算法.基础三.最小路径和" />
       <module name="JavaNote" />
-      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
-    </configuration>
-    <configuration name="冒泡排序" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.basic.算法.排序.冒泡排序" />
-      <module name="JavaNote" />
-      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$/../JavaNote" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.basic.算法.排序.*" />
+          <option name="PATTERN" value="com.basic.算法.左程云算法.基础三.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
-    <configuration name="算法练习" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="算法练习" />
+    <configuration name="最大价值" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.basic.算法.左程云算法.基础三.最大价值" />
       <module name="JavaNote" />
-      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$/../JavaNote" />
-    </configuration>
-    <configuration name="错排问题" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="错排问题" />
-      <module name="JavaNote" />
-      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$/src/main/java" />
-    </configuration>
-    <configuration name="三个线程" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.basic.高并发.三个线程" />
-      <module name="JavaNote" />
-      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.basic.高并发.*" />
+          <option name="PATTERN" value="com.basic.算法.左程云算法.基础三.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
     </configuration>
-    <configuration name="守护线程" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.basic.java.多线程.守护线程" />
+    <configuration name="母牛数量" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.basic.算法.左程云算法.基础三.母牛数量" />
       <module name="JavaNote" />
-      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$/src/main/java/com/basic/java/多线程" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.basic.java.多线程.*" />
+          <option name="PATTERN" value="com.basic.算法.左程云算法.基础三.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="逆序栈" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.basic.算法.左程云算法.基础三.逆序栈" />
+      <module name="JavaNote" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.basic.算法.左程云算法.基础三.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="划分链表" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.basic.算法.左程云算法.基础二.划分链表" />
+      <module name="JavaNote" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.basic.算法.左程云算法.基础二.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -307,6 +414,39 @@
         </pattern>
       </extension>
     </configuration>
+    <configuration name="矩阵查数" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.basic.算法.左程云算法.基础二.矩阵查数" />
+      <module name="JavaNote" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.basic.算法.左程云算法.基础二.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="前缀树" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.basic.算法.左程云算法.基础三.前缀树" />
+      <module name="JavaNote" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.basic.算法.左程云算法.基础三.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="打印链表公共部分" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.basic.算法.左程云算法.基础二.打印链表公共部分" />
+      <module name="JavaNote" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.basic.算法.左程云算法.基础二.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
     <configuration name="字符串碎片" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.basic.suanfa.字符串碎片" />
       <module name="JavaNote" />
@@ -314,6 +454,66 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.basic.suanfa.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="二叉树的遍历" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.basic.算法.左程云算法.树.二叉树的遍历" />
+      <module name="JavaNote" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.basic.算法.左程云算法.树.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="算法练习" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="算法练习" />
+      <module name="JavaNote" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="堆排序" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.basic.算法.左程云算法.基础一.堆排序" />
+      <module name="JavaNote" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.basic.算法.左程云算法.基础一.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="完全二叉树" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.basic.算法.左程云算法.树.完全二叉树" />
+      <module name="JavaNote" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.basic.算法.左程云算法.树.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="汉诺塔" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.basic.算法.左程云算法.基础三.汉诺塔" />
+      <module name="JavaNote" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.basic.算法.左程云算法.基础三.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="数组实现队列" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.basic.算法.左程云算法.基础二.数组实现队列" />
+      <module name="JavaNote" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.basic.算法.左程云算法.基础二.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -340,31 +540,271 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration default="true" type="Application" factoryName="Application">
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-    </configuration>
-    <configuration name="AOP测试.testA" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="安排机器" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.basic.算法.练习.安排机器" />
       <module name="JavaNote" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="spring.test.*" />
+          <option name="PATTERN" value="com.basic.算法.练习.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="spring.test" />
-      <option name="MAIN_CLASS_NAME" value="spring.test.AOP测试" />
-      <option name="METHOD_NAME" value="testA" />
-      <option name="TEST_OBJECT" value="method" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="singleModule" />
-      </option>
-      <patterns />
+    </configuration>
+    <configuration name="切金条" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.basic.算法.左程云算法.基础三.切金条" />
+      <module name="JavaNote" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.basic.算法.左程云算法.基础三.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="冒泡排序" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.basic.算法.排序.冒泡排序" />
+      <module name="JavaNote" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.basic.算法.排序.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="字符串匹配" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.basic.算法.练习.字符串匹配" />
+      <module name="JavaNote" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.basic.算法.练习.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="神奇数" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.basic.算法.练习.神奇数" />
+      <module name="JavaNote" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.basic.算法.练习.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="序列化与反序列化" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.basic.算法.左程云算法.树.序列化与反序列化" />
+      <module name="JavaNote" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.basic.算法.左程云算法.树.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="平衡二叉树" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.basic.算法.左程云算法.树.平衡二叉树" />
+      <module name="JavaNote" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.basic.算法.左程云算法.树.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="找相交节点" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.basic.算法.左程云算法.基础二.找相交节点" />
+      <module name="JavaNote" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.basic.算法.左程云算法.基础二.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="从外到内遍历二维数组" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.basic.算法.左程云算法.基础二.从外到内遍历二维数组" />
+      <module name="JavaNote" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.basic.算法.左程云算法.基础二.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="数组队列取最小数" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.basic.算法.左程云算法.基础二.数组队列取最小数" />
+      <module name="JavaNote" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.basic.算法.左程云算法.基础二.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="分解整数" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.basic.算法.练习.分解整数" />
+      <module name="JavaNote" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.basic.算法.练习.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="算法练习" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="算法练习" />
+      <module name="JavaNote" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="回文链表" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.basic.算法.左程云算法.基础二.回文链表" />
+      <module name="JavaNote" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.basic.算法.左程云算法.基础二.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="错排问题" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="错排问题" />
+      <module name="JavaNote" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$/src/main/java" />
+    </configuration>
+    <configuration name="引用测试" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.basic.引用测试" />
+      <module name="JavaNote" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.basic.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="快速排序" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.basic.算法.左程云算法.基础一.快速排序" />
+      <module name="JavaNote" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.basic.算法.左程云算法.基础一.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="三个线程" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.basic.高并发.三个线程" />
+      <module name="JavaNote" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.basic.高并发.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="小计算器" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.basic.算法.第八届蓝桥杯.小计算器" />
+      <module name="JavaNote" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.basic.算法.第八届蓝桥杯.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="选择排序" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.basic.算法.左程云算法.基础一.选择排序" />
+      <module name="JavaNote" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.basic.算法.左程云算法.基础一.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="堆排序" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.basic.算法.左程云算法.基础一.堆排序" />
+      <module name="JavaNote" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.basic.算法.左程云算法.基础一.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="练习一" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.basic.java.多线程.练习一" />
+      <module name="JavaNote" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.basic.java.多线程.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="二叉树的遍历" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.basic.算法.左程云算法.树.二叉树的遍历" />
+      <module name="JavaNote" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.basic.算法.左程云算法.树.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="荷兰国旗问题" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.basic.算法.左程云算法.基础一.荷兰国旗问题" />
+      <module name="JavaNote" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.basic.算法.左程云算法.基础一.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="守护线程" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.basic.java.多线程.守护线程" />
+      <module name="JavaNote" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$/src/main/java/com/basic/java/多线程" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.basic.java.多线程.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="累加aim" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.basic.算法.左程云算法.基础三.累加aim" />
+      <module name="JavaNote" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.basic.算法.左程云算法.基础三.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
@@ -405,19 +845,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.算法测试" />
-      <item itemvalue="Application.错排问题" />
-      <item itemvalue="Application.冒泡排序" />
-      <item itemvalue="Application.算法练习" />
-      <item itemvalue="JUnit.AOP测试.testA" />
+      <item itemvalue="Application.母牛数量" />
+      <item itemvalue="Application.逆序栈" />
+      <item itemvalue="Application.最小路径和" />
+      <item itemvalue="Application.累加aim" />
+      <item itemvalue="Application.最大价值" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.算法练习" />
-        <item itemvalue="Application.冒泡排序" />
-        <item itemvalue="Application.算法测试" />
-        <item itemvalue="Application.错排问题" />
-        <item itemvalue="JUnit.AOP测试.testA" />
+        <item itemvalue="Application.最大价值" />
+        <item itemvalue="Application.累加aim" />
+        <item itemvalue="Application.最小路径和" />
+        <item itemvalue="Application.逆序栈" />
+        <item itemvalue="Application.母牛数量" />
       </list>
     </recent_temporary>
   </component>
@@ -455,7 +895,39 @@
       <workItem from="1528381642345" duration="6325000" />
       <workItem from="1528622970167" duration="3084000" />
       <workItem from="1528708151361" duration="18350000" />
-      <workItem from="1528976884828" duration="7387000" />
+      <workItem from="1528976884828" duration="21755000" />
+      <workItem from="1529764051733" duration="619000" />
+      <workItem from="1529842433165" duration="4306000" />
+      <workItem from="1529994630840" duration="1483000" />
+      <workItem from="1530002266914" duration="11493000" />
+      <workItem from="1530270052786" duration="14462000" />
+      <workItem from="1530932274529" duration="590000" />
+      <workItem from="1531055196639" duration="4895000" />
+      <workItem from="1535091518722" duration="1087000" />
+      <workItem from="1535092625062" duration="3932000" />
+      <workItem from="1535352013478" duration="2280000" />
+      <workItem from="1537164694830" duration="37933000" />
+      <workItem from="1538211713246" duration="6592000" />
+      <workItem from="1538960579596" duration="5156000" />
+      <workItem from="1539046335745" duration="5145000" />
+      <workItem from="1539077289011" duration="1433000" />
+      <workItem from="1539158901427" duration="5895000" />
+      <workItem from="1539218119806" duration="3898000" />
+      <workItem from="1539325104109" duration="585000" />
+      <workItem from="1539494620582" duration="30985000" />
+      <workItem from="1539845039974" duration="15004000" />
+      <workItem from="1540113570667" duration="8148000" />
+      <workItem from="1540255182171" duration="24695000" />
+      <workItem from="1541647820060" duration="62723000" />
+      <workItem from="1542284266945" duration="38522000" />
+      <workItem from="1542803348148" duration="15099000" />
+      <workItem from="1542953933792" duration="7701000" />
+      <workItem from="1543137973110" duration="45489000" />
+      <workItem from="1543327675529" duration="19063000" />
+      <workItem from="1543491802959" duration="50094000" />
+      <workItem from="1544441526871" duration="11701000" />
+      <workItem from="1544662963340" duration="3677000" />
+      <workItem from="1544704273428" duration="25325000" />
     </task>
     <task id="LOCAL-00001" summary="java笔记">
       <created>1524453667367</created>
@@ -471,7 +943,14 @@
       <option name="project" value="LOCAL" />
       <updated>1529030549142</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="对算法练习的题目补充了注释">
+      <created>1529033333868</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1529033333868</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -507,13 +986,14 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="359193000" />
+    <option name="totallyTimeSpent" value="843571000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5005208" side_tool="true" weight="0.34112647" />
       <window_info anchor="right" id="Maven Projects" order="5" weight="0.3296875" />
       <window_info anchor="bottom" id="Database Changes" order="16" show_stripe_button="false" />
       <window_info id="Capture Tool" order="7" />
@@ -522,28 +1002,28 @@
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="4" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.33368757" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49947917" weight="0.31678987" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" order="12" weight="0.32943678" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.2851109" />
       <window_info anchor="right" id="Palette&#9;" order="8" />
       <window_info id="Image Layers" order="3" />
       <window_info anchor="bottom" id="Java Enterprise" order="10" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
-      <window_info anchor="bottom" id="Version Control" order="11" weight="0.32731137" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.35281616" />
+      <window_info anchor="bottom" id="Version Control" order="11" visible="true" weight="0.32629356" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49947917" weight="0.30728617" />
       <window_info anchor="bottom" id="Spring" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="8" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49913943" visible="true" weight="0.24583334" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32943678" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49913943" visible="true" weight="0.134375" />
       <window_info id="Web" order="5" sideWeight="0.5008606" side_tool="true" weight="0.24583334" />
       <window_info anchor="right" id="Theme Preview" order="9" />
       <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info anchor="right" id="Properties" order="7" />
       <window_info id="Nl-Palette" order="8" />
       <window_info anchor="right" id="Coverage" order="11" side_tool="true" weight="0.3296875" />
       <window_info anchor="bottom" id="JRebel Executor" order="13" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="right" id="Bean Validation" order="10" />
+      <window_info anchor="right" id="Properties" order="7" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info id="JRebel" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Application Servers" order="15" weight="0.32943678" />
@@ -562,417 +1042,510 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="java笔记" />
     <MESSAGE value="java基础笔记" />
-    <option name="LAST_COMMIT_MESSAGE" value="java基础笔记" />
+    <MESSAGE value="对算法练习的题目补充了注释" />
+    <option name="LAST_COMMIT_MESSAGE" value="对算法练习的题目补充了注释" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="207" />
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/basic/java/多线程/练习一.java</url>
+          <line>24</line>
+          <properties />
+          <option name="timeStamp" value="212" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/basic/算法/练习/贪吃的小Q.java</url>
+          <line>18</line>
+          <properties />
+          <option name="timeStamp" value="256" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/basic/算法/练习/贪吃的小Q.java</url>
+          <line>27</line>
+          <properties />
+          <option name="timeStamp" value="257" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/basic/算法/练习/神奇数.java</url>
+          <line>19</line>
+          <properties />
+          <option name="timeStamp" value="258" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/basic/算法/练习/整除.java</url>
+          <line>17</line>
+          <properties />
+          <option name="timeStamp" value="259" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/basic/算法/练习/分解整数.java</url>
+          <line>18</line>
+          <properties />
+          <option name="timeStamp" value="260" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/basic/算法/左程云算法/基础一/选择排序.java</url>
+          <line>33</line>
+          <properties />
+          <option name="timeStamp" value="300" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/basic/算法/左程云算法/基础二/数组实现队列.java</url>
+          <line>12</line>
+          <properties />
+          <option name="timeStamp" value="303" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/basic/算法/左程云算法/基础二/数组栈取最小数.java</url>
+          <line>16</line>
+          <properties />
+          <option name="timeStamp" value="304" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/basic/算法/左程云算法/基础二/之字型打印数组.java</url>
+          <line>38</line>
+          <properties />
+          <option name="timeStamp" value="315" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/basic/算法/左程云算法/基础二/回文链表.java</url>
+          <line>163</line>
+          <properties />
+          <option name="timeStamp" value="325" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/basic/算法/左程云算法/基础二/回文链表.java</url>
+          <line>167</line>
+          <properties />
+          <option name="timeStamp" value="326" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/basic/算法/左程云算法/基础二/划分链表.java</url>
+          <line>66</line>
+          <properties />
+          <option name="timeStamp" value="328" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/basic/算法/左程云算法/基础二/找相交节点.java</url>
+          <line>145</line>
+          <properties />
+          <option name="timeStamp" value="353" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/basic/算法/左程云算法/基础三/打印子字符串.java</url>
+          <line>16</line>
+          <properties />
+          <option name="timeStamp" value="375" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/basic/算法/左程云算法/基础三/字符串全排列.java</url>
+          <line>18</line>
+          <properties />
+          <option name="timeStamp" value="377" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/basic/算法/左程云算法/基础三/逆序栈.java</url>
+          <line>12</line>
+          <properties />
+          <option name="timeStamp" value="378" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/basic/算法/左程云算法/基础三/逆序栈.java</url>
+          <line>21</line>
+          <properties />
+          <option name="timeStamp" value="379" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/basic/算法/左程云算法/基础三/最大价值.java</url>
+          <line>40</line>
+          <properties />
+          <option name="timeStamp" value="383" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="384" />
     </breakpoint-manager>
     <watches-manager>
       <configuration name="Application">
+        <watch expression="args" />
         <watch expression="listNode1.next.next" />
+        <watch expression="left" />
       </configuration>
     </watches-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/../JavaNote/src/main/java/spring/entity/User.java" />
-    <entry file="file://$PROJECT_DIR$/../JavaNote/src/main/java/spring/entity/Enb.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/basic/算法/左程云算法/基础二/QuezeStack.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="101">
-          <caret line="5" column="15" lean-forward="true" selection-start-line="5" selection-start-column="15" selection-end-line="5" selection-end-column="15" />
+        <state relative-caret-position="432">
+          <caret line="57" selection-start-line="57" selection-end-line="57" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../JavaNote/src/main/java/spring/entity/EnA.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/basic/算法/左程云算法/基础二/猫狗队列.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="155">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        <state relative-caret-position="460">
+          <caret line="136" lean-forward="true" selection-start-line="136" selection-end-line="136" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../JavaNote/src/main/java/spring/entity/enc.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/basic/算法/左程云算法/基础一/归并排序.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
+          <caret line="55" column="25" lean-forward="true" selection-start-line="55" selection-start-column="25" selection-end-line="55" selection-end-column="25" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../JavaNote/src/main/java/spring/AOP/Log.java">
+    <entry file="file://L:/牛客网算法/初级班代码ppt/新基础课第3、4节代码/class_03/Code_06_PrintMatrixSpiralOrder.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="10" column="33" selection-start-line="10" selection-start-column="33" selection-end-line="10" selection-end-column="33" />
+        <state relative-caret-position="514">
+          <caret line="48" column="32" lean-forward="true" selection-start-line="46" selection-start-column="8" selection-end-line="48" selection-end-column="32" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$MAVEN_REPOSITORY$/org/springframework/spring-aop/4.3.3.RELEASE/spring-aop-4.3.3.RELEASE.pom">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/basic/算法/左程云算法/基础一/小和问题.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="1" column="71" selection-start-line="1" selection-start-column="71" selection-end-line="1" selection-end-column="71" />
+        <state relative-caret-position="264">
+          <caret line="62" column="17" selection-start-line="62" selection-start-column="17" selection-end-line="62" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$MAVEN_REPOSITORY$/org/springframework/spring-core/4.3.3.RELEASE/spring-core-4.3.3.RELEASE.pom">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/basic/算法/左程云算法/基础一/快速排序.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-69" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../JavaNote/src/main/java/spring/test/IOC测试.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="181">
-          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+        <state relative-caret-position="445">
+          <caret line="74" column="10" selection-start-line="74" selection-start-column="10" selection-end-line="74" selection-end-column="10" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../JavaNote/src/main/java/spring/AOP/ServiceImpl.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/basic/算法/左程云算法/基础一/桶的应用.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="10" column="19" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
+        <state relative-caret-position="119">
+          <caret line="49" column="31" lean-forward="true" selection-start-line="49" selection-start-column="31" selection-end-line="49" selection-end-column="31" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../JavaNote/pom.xml">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/basic/算法/左程云算法/基础一/Test.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="487">
-          <caret line="64" selection-start-line="64" selection-end-line="64" />
+        <state relative-caret-position="174">
+          <caret line="202" column="25" lean-forward="true" selection-start-line="202" selection-start-column="25" selection-end-line="202" selection-end-column="25" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../JavaNote/src/main/java/spring/test/AOP测试.java">
+    <entry file="file://L:/牛客网算法/初级班代码ppt/新基础课第3、4节代码/class_03/Code_05_RotateMatrix.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="665">
-          <caret line="25" column="26" lean-forward="true" selection-start-line="25" selection-start-column="26" selection-end-line="25" selection-end-column="26" />
+        <state relative-caret-position="204">
+          <caret line="41" column="26" lean-forward="true" selection-start-line="36" selection-start-column="8" selection-end-line="41" selection-end-column="26" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../JavaNote/src/main/java/com/basic/设计模式/笔记.txt">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/basic/算法/左程云算法/基础二/之字型打印数组.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="256">
-          <caret line="127" column="7" selection-start-line="127" selection-start-column="7" selection-end-line="127" selection-end-column="7" />
+        <state relative-caret-position="298">
+          <caret line="23" column="39" lean-forward="true" selection-start-line="23" selection-start-column="39" selection-end-line="23" selection-end-column="39" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_101/src.zip!/java/math/BigInteger.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/basic/算法/左程云算法/基础二/DoubleNode.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="327">
-          <caret line="1487" column="30" lean-forward="true" selection-start-line="1487" selection-start-column="30" selection-end-line="1487" selection-end-column="30" />
+        <state relative-caret-position="825">
+          <caret line="39" column="1" selection-start-line="39" selection-start-column="1" selection-end-line="39" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_101/src.zip!/java/util/List.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/basic/算法/左程云算法/基础二/Node.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="365">
-          <caret line="477" column="17" lean-forward="true" selection-start-line="477" selection-start-column="17" selection-end-line="477" selection-end-column="17" />
+        <state relative-caret-position="439">
+          <caret line="32" selection-start-line="32" selection-end-line="32" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_101/src.zip!/java/util/Collections.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/basic/算法/左程云算法/基础二/打印链表公共部分.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="256">
-          <caret line="5398" column="31" lean-forward="true" selection-start-line="5398" selection-start-column="31" selection-end-line="5398" selection-end-column="31" />
+        <state relative-caret-position="175">
+          <caret line="22" column="19" selection-start-line="22" selection-start-column="19" selection-end-line="22" selection-end-column="19" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../JavaNote/src/main/java/com/basic/java/String字符串/笔记.txt">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/basic/算法/左程云算法/基础二/划分链表.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="17" column="12" selection-start-line="17" selection-start-column="12" selection-end-line="17" selection-end-column="12" />
+        <state relative-caret-position="99">
+          <caret line="69" column="38" lean-forward="true" selection-start-line="69" selection-start-column="38" selection-end-line="69" selection-end-column="38" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../JavaNote/src/main/java/com/basic/java/内部类/笔记.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="6" column="6" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_101/src.zip!/java/lang/Object.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="287">
-          <caret line="381" column="34" selection-start-line="381" selection-start-column="29" selection-end-line="381" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../JavaNote/src/main/java/com/basic/java/反射/笔记.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="8" column="10" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../JavaNote/src/main/java/com/basic/java/多线程/守护线程.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="480">
-          <caret line="19" column="31" lean-forward="true" selection-start-line="19" selection-start-column="31" selection-end-line="19" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../JavaNote/src/main/java/com/basic/java/多线程/锁对象.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="141">
-          <caret line="17" column="21" lean-forward="true" selection-start-line="17" selection-start-column="21" selection-end-line="17" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../JavaNote/src/main/java/com/basic/java/多线程/并发.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="363">
-          <caret line="65" lean-forward="true" selection-start-line="65" selection-end-line="65" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../JavaNote/src/main/java/com/basic/java/多线程/笔记.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="66" lean-forward="true" selection-start-line="66" selection-end-line="66" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../JavaNote/src/main/java/com/basic/java/容器/集合.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="379">
-          <caret line="58" column="9" lean-forward="true" selection-start-line="58" selection-start-column="9" selection-end-line="58" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../JavaNote/src/main/java/com/basic/java/异常/笔记.txt">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/basic/算法/左程云算法/基础二/回文链表.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
-          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../JavaNote/src/main/java/com/basic/jvm/Class类结构/笔记.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../JavaNote/src/main/java/com/basic/jvm/GC/回收方法区">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../JavaNote/src/main/java/com/basic/jvm/GC/常用参数.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../JavaNote/src/main/java/com/basic/jvm/GC/对象的可触及性.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../JavaNote/src/main/java/com/basic/jvm/GC/引用">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../JavaNote/src/main/java/com/basic/jvm/GC/垃圾回收算法和收集器.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1369">
-          <caret line="235" column="38" selection-start-line="235" selection-start-column="38" selection-end-line="235" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../JavaNote/src/main/resources/applicationContext.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="293">
-          <caret line="25" column="16" lean-forward="true" selection-start-line="25" selection-start-column="16" selection-end-line="25" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_101/src.zip!/java/util/Arrays.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="111810">
-          <caret line="3798" column="30" selection-start-line="3798" selection-start-column="30" selection-end-line="3798" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../JavaNote/src/main/java/com/basic/java/正则/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="15" column="29" lean-forward="true" selection-start-line="15" selection-start-column="29" selection-end-line="15" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_101/src.zip!/java/util/StringJoiner.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="214">
-          <caret line="159" column="18" selection-start-line="159" selection-start-column="18" selection-end-line="159" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_101/src.zip!/java/lang/String.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="737">
-          <caret line="2132" column="35" selection-start-line="2132" selection-start-column="25" selection-end-line="2132" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_101/src.zip!/java/lang/Integer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="574">
-          <caret line="137" lean-forward="true" selection-start-line="137" selection-end-line="137" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../JavaNote/src/main/java/com/basic/cas/笔记.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="750">
-          <caret line="25" column="26" selection-start-line="25" selection-start-column="26" selection-end-line="25" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../JavaNote/src/main/java/com/basic/高并发/队列队列.java" />
-    <entry file="file://$PROJECT_DIR$/../JavaNote/src/main/java/com/basic/高并发/三个线程.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="232">
-          <caret line="28" column="28" selection-start-line="28" selection-start-column="28" selection-end-line="28" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../JavaNote/src/main/java/com/basic/算法/排序/二分排序.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="10" column="5" lean-forward="true" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../JavaNote/src/main/java/com/basic/算法/排序/冒泡排序.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="10" column="37" selection-start-line="10" selection-start-column="37" selection-end-line="10" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../JavaNote/src/main/java/com/basic/算法/排序/快速排序.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../JavaNote/src/main/java/com/basic/tcp/三次握手.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../JavaNote/src/main/java/com/basic/java/Student.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../JavaNote/src/main/java/com/basic/java/IO流/笔记.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="9" column="20" lean-forward="true" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../JavaNote/src/main/java/com/basic/p.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="570">
-          <caret line="43" column="6" selection-start-line="43" selection-start-column="6" selection-end-line="43" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../JavaNote/src/main/java/com/basic/S.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../JavaNote/src/main/java/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../JavaNote/src/main/java/算法练习.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-8711">
-          <caret line="979" lean-forward="true" selection-start-line="979" selection-end-line="979" />
+          <caret line="185" column="23" selection-start-line="185" selection-start-column="23" selection-end-line="185" selection-end-column="23" />
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#6712#7395#0" />
-            <element signature="e#7401#8017#0" />
-            <element signature="e#8023#8856#0" />
-            <element signature="e#8862#9523#0" />
-            <element signature="e#9529#9812#0" />
-            <element signature="e#9818#10527#0" />
-            <element signature="e#10533#11447#0" />
-            <element signature="e#11943#12420#0" />
-            <element signature="e#12426#12647#0" />
-            <element signature="e#12653#12904#0" />
-            <element signature="e#12910#14144#0" />
-            <element signature="e#14150#14962#0" />
-            <element signature="e#14968#15543#0" />
-            <element signature="e#15549#15833#0" />
-            <element signature="e#16241#16728#0" />
-            <element signature="e#16734#17307#0" />
-            <element signature="e#17512#17840#0" />
-            <element signature="e#17846#18005#0" />
-            <element signature="e#18012#18470#0" />
-            <element signature="e#18478#18814#0" />
-            <element signature="e#18820#19458#0" />
-            <element signature="e#20597#21297#0" />
-            <element signature="e#21303#22025#0" />
-            <element signature="e#22032#23677#0" />
-            <element signature="e#24121#25053#0" />
-            <element signature="e#24619#26210#0" />
-            <element signature="e#27387#27923#0" />
-            <element signature="e#29817#29818#0" expanded="true" />
-            <element signature="e#29851#29852#0" expanded="true" />
-            <element signature="e#29890#29891#0" expanded="true" />
-            <element signature="e#29928#29929#0" expanded="true" />
-            <element signature="e#29961#29962#0" expanded="true" />
-            <element signature="e#29995#29996#0" expanded="true" />
-            <element signature="e#30036#30037#0" expanded="true" />
-            <element signature="e#30074#30075#0" expanded="true" />
-            <element signature="e#30109#30110#0" expanded="true" />
-            <element signature="e#30145#30146#0" expanded="true" />
-            <element signature="e#30190#30191#0" expanded="true" />
-            <element signature="e#30232#30233#0" expanded="true" />
-            <element signature="e#35806#35807#0" expanded="true" />
-            <element signature="e#35840#35841#0" expanded="true" />
-            <element signature="e#35879#35880#0" expanded="true" />
-            <element signature="e#35917#35918#0" expanded="true" />
-            <element signature="e#36141#36142#0" expanded="true" />
-            <element signature="e#36178#36179#0" expanded="true" />
-            <element signature="e#36223#36224#0" expanded="true" />
-            <element signature="e#36267#36268#0" expanded="true" />
-            <element signature="e#36297#36298#0" expanded="true" />
-            <element signature="e#36330#36331#0" expanded="true" />
-            <element signature="e#36367#36368#0" expanded="true" />
-            <element signature="e#36403#36404#0" expanded="true" />
-            <element signature="e#36434#36435#0" expanded="true" />
-            <element signature="e#36468#36469#0" expanded="true" />
-            <element signature="e#36507#36508#0" expanded="true" />
-            <element signature="e#36545#36546#0" expanded="true" />
+            <element signature="method#isPalindrome1#0;class#回文链表#0" />
+            <element signature="method#isPalindrome2#0;class#回文链表#0" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../JavaNote/src/main/java/错排问题.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/basic/算法/左程云算法/基础二/拷贝特殊链表.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="379">
-          <caret line="34" column="33" selection-start-line="3" selection-start-column="4" selection-end-line="34" selection-end-column="33" />
+        <state relative-caret-position="342">
+          <caret line="81" column="23" lean-forward="true" selection-start-line="81" selection-start-column="23" selection-end-line="81" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/basic/算法/左程云算法/树.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/basic/算法/左程云算法/基础二/链表反转.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="60" column="19" selection-start-line="60" selection-start-column="19" selection-end-line="60" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/basic/算法/左程云算法/基础二/找相交节点.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="92" column="33" lean-forward="true" selection-start-line="92" selection-start-column="33" selection-end-line="92" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/basic/算法/左程云算法/基础二/旋转90度遍历数组.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="35" column="42" lean-forward="true" selection-start-line="35" selection-start-column="42" selection-end-line="35" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/basic/算法/左程云算法/基础二/数组实现队列.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="429">
+          <caret line="43" column="9" lean-forward="true" selection-start-line="43" selection-start-column="9" selection-end-line="43" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/basic/算法/左程云算法/基础二/数组栈取最小数.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-138">
+          <caret line="24" column="6" selection-start-line="24" selection-start-column="6" selection-end-line="24" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/basic/算法/左程云算法/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="555">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/basic/算法/左程云算法/树/TreeNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/basic/算法/左程云算法/树/找后继节点.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="606">
+          <caret line="63" column="16" lean-forward="true" selection-start-line="63" selection-start-column="16" selection-end-line="63" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/basic/算法/左程云算法/树/序列化与反序列化.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="93" column="29" lean-forward="true" selection-start-line="93" selection-start-column="29" selection-end-line="93" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/basic/算法/左程云算法/树/二叉树的遍历.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="93" column="30" selection-start-line="93" selection-start-column="30" selection-end-line="93" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/basic/算法/左程云算法/树/平衡二叉树.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="561">
+          <caret line="17" column="20" lean-forward="true" selection-start-line="17" selection-start-column="20" selection-end-line="17" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/basic/算法/左程云算法/树/搜索二叉树.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="20" lean-forward="true" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/basic/算法/左程云算法/树/求完全二叉树的节点数.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/basic/算法/左程云算法/基础三.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/basic/算法/左程云算法/树/完全二叉树.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="372">
+          <caret line="50" column="18" lean-forward="true" selection-start-line="50" selection-start-column="18" selection-end-line="50" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/basic/算法/左程云算法/基础三/并查集.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1815">
+          <caret line="58" column="44" selection-start-line="58" selection-start-column="44" selection-end-line="58" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/basic/数据库/笔记">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="99">
+          <caret line="3" column="24" selection-start-line="3" selection-start-column="24" selection-end-line="3" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Program Files (x86)/Java/jdk1.8.0_144/src.zip!/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="169">
+          <caret line="200" column="13" lean-forward="true" selection-start-line="200" selection-start-column="13" selection-end-line="200" selection-end-column="13" />
+          <folding>
+            <element signature="e#119456#119457#0" expanded="true" />
+            <element signature="e#119510#119511#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/basic/算法/左程云算法/基础三/最小路径和.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="6" column="32" selection-start-line="6" selection-start-column="32" selection-end-line="6" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/basic/算法/左程云算法/基础三/逆序栈.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="7" column="37" selection-start-line="7" selection-start-column="37" selection-end-line="7" selection-end-column="37" />
+          <folding>
+            <element signature="e#749#758#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/basic/算法/左程云算法/基础三/字符串全排列.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="99">
+          <caret line="12" column="5" lean-forward="true" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/basic/算法/左程云算法/基础三/打印子字符串.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="33">
+          <caret line="10" column="17" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/basic/算法/左程云算法/基础三/切金条.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="564">
+          <caret line="26" column="29" selection-start-line="26" selection-start-column="29" selection-end-line="26" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/basic/算法/左程云算法/基础三/RandomPool.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="17" column="29" selection-start-line="17" selection-start-column="29" selection-end-line="17" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/basic/算法/左程云算法/基础三/前缀树.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="60" column="27" selection-start-line="60" selection-start-column="27" selection-end-line="60" selection-end-column="27" />
+          <folding>
+            <element signature="e#1183#1184#0" expanded="true" />
+            <element signature="e#1228#1229#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/basic/算法/左程云算法/基础三/汉诺塔.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="237">
+          <caret line="10" column="19" lean-forward="true" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
+          <folding>
+            <element signature="e#156#157#0" expanded="true" />
+            <element signature="e#206#207#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/basic/算法/左程云算法/基础三/母牛数量.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/basic/算法/左程云算法/基础三/累加aim.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="267">
+          <caret line="20" column="25" lean-forward="true" selection-start-line="20" selection-start-column="25" selection-end-line="20" selection-end-column="25" />
+          <folding>
+            <element signature="e#223#224#0" expanded="true" />
+            <element signature="e#274#275#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/basic/算法/左程云算法/基础三/最大价值.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="430">
+          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#613#614#0" expanded="true" />
+            <element signature="e#655#656#0" expanded="true" />
+            <element signature="e#818#819#0" expanded="true" />
+            <element signature="e#860#861#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/basic/算法/左程云算法/基础三/最大钱数.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="44" column="43" lean-forward="true" selection-start-line="44" selection-start-column="43" selection-end-line="44" selection-end-column="43" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/basic/算法/左程云算法/基础二/从外到内遍历二维数组.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="429">
+          <caret line="18" column="31" lean-forward="true" selection-start-line="18" selection-start-column="31" selection-end-line="18" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/错排问题.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="10" column="30" selection-start-line="10" selection-start-column="30" selection-end-line="10" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/basic/算法/左程云算法/基础二/矩阵查数.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="99">
+          <caret line="15" column="32" selection-start-line="15" selection-start-column="32" selection-end-line="15" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/basic/算法/剑指offer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="7" column="20" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="20" />
         </state>
       </provider>
     </entry>
