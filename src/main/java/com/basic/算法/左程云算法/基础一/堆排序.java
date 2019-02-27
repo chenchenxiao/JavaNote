@@ -88,7 +88,7 @@ public class 堆排序 {
             }
             //交换孩子节点和父节点的值
             swap(arr, largest, index);
-            //将父节点变为最大孩子节点的位置
+            //将父节点变为最大孩子节点的位置6
             index = largest;
             //变为孩子左节点
             left = index * 2 + 1;

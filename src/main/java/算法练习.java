@@ -164,7 +164,7 @@ public class 算法练习 {
 //          客似云来();
 //            跳台阶();
 //          String regx = "\\s+|,|\\.|\\?|;|:|'";
-//          String str = "一,二.三?四;五:六'七 八   九";
+//          String str = "二维数组中的查找,二.三?四;五:六'七 八   九";
 //          String[] split = str.split(regx);
 //          System.out.println(split.toString());
 //        Scanner sc = new Scanner(System.in);
