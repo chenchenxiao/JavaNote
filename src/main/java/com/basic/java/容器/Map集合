@@ -1,0 +1,75 @@
+HashMaps是一种以键值对存储数据的集合
+默认容量是16，加载因子是0.75，阀值是容量值*加载因子，
+TREEIFY_THRESHOLD 表示链表转换成红黑树的阀值，默认是8，即链表的长度超过8就会转换成红黑树
+UNTREEIFY_THRESHOLD 表示当红黑树的节点数量少于该值时使用链表来代替树，默认是6
+MIN_TREEIFY_CAPACITY 在转换成树之前，判断键值对数量是否大于该值，如果大于才转换成树，这是为了避免在哈希表建立时，多个键值对恰好被放入了同一个链表而导致不必要的转换，默认是64
+HashMap里面有个内部类Node，里面有key，value，也就是键值对，还有next指针，HashMap就是通过一个Node来存储键值对的
+
+解决hash冲突的4种方法：开放地址法(线性探测，二次探测，双重散列），拉链法，再哈希法，建立公共溢出空间
+
+put方法：
+    添加键值对时，会先判断链表数组是否为空，如果是空就初始化执行resize方法，进行初始化，接下来会根据添加的key进行hash运算得到对应在链表数组中的位置，判断对应位置是否为空，如果为空就直接让该位置的值等于添加的值
+    如果前面两项都不对的话就说明发生了hash冲突，会遍历对应位置的链表，比对key的值，找到后就修改value，找不到就添加
+
+resize扩容方法：
+    由于1.8前采用的是头插法，而HashMap又是非线程安全的，可能会形成环链，所以会引起死循环问题，头插法效率高
+    1.8后采用尾插法，需要一个个遍历，不会出现死循环，但是会出现数据丢失，数据丢失是因为多线程同时put时，可能会得到相同的位置，数据可能出现覆盖丢失的情况
+
+HashMap中减少哈希冲突的方法：
+    1、 扰动函数可以减少碰撞，原理是如果两个不相等的对象返回不同的hashcode的话，那么碰撞的几率就会小些，这意味着链表结构减小，这样取值的话就不会频繁调用equal方法，从而提高HashMap的性能
+        扰动级Hash方法内部的算法实现，目的是让不同对象返回不同hashcode。
+    2、使用不可变的final对象，并且采用合适的equals和hashCode方法，不可变性使得能够缓存不同键的hashcode，这将提高整个获取对象的速度，使用String，Integer等包装类是非常好的选择
+       因为String是final，而且已经重新了equals和hashCode方法，可以防止键值改变，如果键值在放入时和获取时返回不同的hashcode的话，那么就不能从HashMap中找到想要的对象。
+
+HashTable
+    线程安全版的HashMap，扩容时是原先两倍的容量+1，初始化数组大小为11，不允许空键空值，而且是直接使用对象的hashCode
+TreeMap
+    TreeMap是一个非同步的有序的key-value集合，通过红黑树实现，默认按键的自然顺序进行排序，也可以根据传入的Comparator比较器进行比较排序，具体取决于使用的构造方法
+HashSet
+    HashSet的内部是使用HashMap实现的，用来存储key，HashSet里所有HashMap的value都是一个Object，非线程安全
+LinkedHashMap
+    是一种HashMap + LinkedList组合而成的结构
+    LinkedHashMap保证了元素迭代的顺序，通过在Node中加入了before和after属性来维护一个双向链表来实现，增加了再时间和空间上的开销
+    允许key和value为空，key会覆盖，value允许重复，有序，非线程安全。
+
+问题：
+    1、为什么不用二叉查找数而是选择红黑树，为什么不一直使用红黑树
+        选择红黑树是为了解决二叉查找树的缺陷：二叉查找树在特殊情况下回变成一条线性结构（这就跟原来的链表结构一样了，造成层次很深的问题），遍历查找会非常慢。
+        而红黑树在插入新数据后可能需要通过左旋，右旋变色等操作来维持平衡。引入红黑树就是为了查找数据快，解决链表查询深度的问题。
+        为了保持平衡是需要付出代价的，但是该代价所消耗的资源要远比遍历线性链表少，所以当链表长度大于8时，会使用红黑树。
+
+    2、为什么是使用红黑树
+        红黑树相比av树，在检索的时候效率其实相差不大，都是通过平衡来二分查找，但对于插入删除等操作效率提高很多，红黑树不像av树一样追求绝对的平衡，他允许局部很少的不平衡，
+        这对于效率影响不大，但省去了很多没有必要的调平衡操作，av树调平衡有时候代价较大，所以效率不如红黑树
+
+    3、Hash函数的实现
+        HashMap的hash函数是先用获取key的hashCode值，再用该哈希值的高十六位和低十六位进行异或运算
+        要查找时是通过当前数组长度-1跟hash函数的返回值做"&"运算得到位置
+        HashMap的数组长度为2的整数幂。数组-1相当于一个低位掩码，"&"操作的结果就是散列值的高位全部归0，只保留低位值。
+        因为和某散列值做与操作时，结果只截取了最低的四位，所以即使散列值分布再松散，碰撞几率还是很大，
+        这时候hash函数作用就体现出来了，右移16位，正好是整数的一半，高半区和低半区做异或，就是为了混合原始哈希码的高位和低位，以此来加大低位的随机性，混合后的低位参杂了高位的部分特征。
+        之所以使用 "^" 异或运算是为了保证对象的hashCode的32位值只要有一位发生改变，整个hash返回值就会改变，尽可能的避免冲突。
+
+    4、HashMap的四种遍历方式
+        ① for-each map.keySet()，只需要K值的时候，推荐使用
+            for (String key : map.Set()){
+                 map.get(key)
+            }
+        ② for-each map.entrySet()，当需要V值的时候，推荐使用
+            for (Map.Entry<String, String> entry : mao.entrySet()) {
+                 entry.getKey();
+                 entry.getValue();
+            }
+        ③ for-each map.entrySet()+临时变量
+            Set<Map.Entry<String, String>> entrySet = map.entrySet();
+            for (Map.Entry<String, String> entry : entrySet) {
+                entry.getKey();
+                entry.getValue();
+            }
+        ④ for-each map.entrySet().iterator()    使用代器的方式
+            Iterator<Map.Entry<String, String>> iterator = map.entrySet().iterator();
+            while (iterator.hasNext()) {
+                Map.Entry<String, String> entry = iterator.next();
+                entry.getKey();
+                entry.getValue();
+            }

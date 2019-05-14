@@ -1,0 +1,18 @@
+在多线程并发的环境下，一般都是使用ConcurrentHashMap，而不是HashTable
+HashTable使用的是悲观锁，如果线程拿不到锁会一直等待，而ConcurrentHashMap使用的是乐观锁，不会一直等待
+在1.7以前，ConcurrentHashMap使用分段锁来实现，使用了多个锁来控制度hash表的不同部分进行的修改，每个锁其实就是一个小的Hashtable，由volatile修饰，它们有自己的锁，只要多个修改操作发生在不同的段上，就可以并发进行
+Segment里有一个HashEntry数组，也就是实际用来存储数据的，第一次hash找到对应的Segment，第二次hash找到对应HashEntry；对数据的每个操作都会在Segment中进行加锁和释放锁
+
+1.8后，借助Unsafe 类，不再使用Segement，而是直接使用一个volatile Node数组来存储数据，将原先的table+单向链表的结构改成table数组＋单向链表＋红黑树的结构，对于Node长度超过8的则使用红黑树
+对table数组的首个节点进行加锁实现同步
+tabAt(Node[] tab，int i)：使用的是Unsafe的getObjectVolatile方法，用来获取tab数组的第i个node，可以直接获取指定内存的数据，保证每次拿到的数据都是最新的
+casTabAt(Node tab,int i,Node c, Node v):使用的是Unsafe的compareAndSwapObject方法，利用cas算法设置i位置上的node节点
+setTabAt(Node tab, int i, Node v):使用的是Unsafe的putObjectVolatile方法，利用volatile方法设置第i个节点的值，这个操作是一定成功的
+
+总结：
+    1、1.8后降低了锁的粒度，1.7版本的锁粒度是基于Segment的，包含HashEntry，1.8后是基于HashEntry的
+    2、1.8后的数据结构变得更加简单，使得操作也更加清晰流畅，因为已经使用synchronize来进行同步，所以不需要分段锁的概念，由于粒度降低，实现的复杂度也增加了
+    3、1.8后使用红黑树来优化链表，基于长度很长的链表的遍历是一个很漫长的过程，而红黑树的遍历效率很高
+    4、使用内置synchronize来代替可重复入锁ReentranLock的原因：
+        锁粒度降低了，在相对而言的低粒度加锁方式中，synchronize并不比它差，在粗粒度加锁中可重入锁可以通过Condition来控制各个低粒度的边界，而在低粒度中，Condition的优势就没有了
+        在大量的数据操作下，对于JVM的内存压力，基于API的ReentrantLock会开销更多的内存

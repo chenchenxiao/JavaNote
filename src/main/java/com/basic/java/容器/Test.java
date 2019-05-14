@@ -7,14 +7,14 @@ import java.util.List;
  * @description
  */
 public class Test {
+
+//3194802   48
     public static void main(String[] args) {
-        List list = new ArrayList();
-        for (int i = 0; i < 10; i++) {
-            list.add(i);
-        }
-        System.out.println(list.toString());
-//        list.add(2,10);
-        list.remove(2);
-        System.out.println(list.toString());
+        String s = "haha";
+        int hash = s.hashCode();
+        int hash2 = hash ^ (hash >>> 16);
+        System.out.println(hash2);
+        System.out.println(hash2 % 52);
+        System.out.println(hash2 & 51);
     }
 }

@@ -11,9 +11,9 @@ import java.util.PriorityQueue;
 public class 最大价值 {
 
     public static void main(String[] args) {
-        int[] w = { 3, 2, 4, 7 };
-        int[] v = { 5, 6, 3, 19 };
-        int bag = 11;
+        int[] w = { 1, 2, 3, 2};
+        int[] v = { 4, 6, 12, 7 };
+        int bag = 6;
         int func = func(w, v, bag);
         System.out.println(func);
     }

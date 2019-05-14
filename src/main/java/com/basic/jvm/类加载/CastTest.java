@@ -11,9 +11,4 @@ public class CastTest {
         System.out.println(s);
     }
 
-    public static void main(String[] args) {
-       Integer[] a = new Integer[10];
-
-
-    }
 }
