@@ -1,4 +1,4 @@
-package com.basic.java.多线程.高并发.ReentrantLock;
+package com.basic.java.高并发.ReentrantLock;
 
 import java.util.concurrent.TimeUnit;
 import java.util.concurrent.locks.ReentrantLock;

@@ -15,10 +15,12 @@
 			id ：用于之后从spring容器获得实例时使用的
 			class ：需要创建实例的全限定类名
 	-->
-	<!--<bean id="a" class="spring.entity.EnA"/>-->
+	<bean id="a" class="spring.entity.EnA">
+		<property name="name" value="HAHA"/>
+	</bean>
 	<!--<bean id="c" class="spring.entity.enc"/>-->
 
-	<context:component-scan base-package="spring.entity"/>
+	<context:component-scan base-package="spring.*"/>
 
 	<bean id="serviceImpl" class="spring.AOP.ServiceImpl"/>
 	<bean id="log" class="spring.AOP.Log"/>

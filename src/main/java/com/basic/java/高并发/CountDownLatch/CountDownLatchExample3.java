@@ -23,7 +23,7 @@ public class CountDownLatchExample3 {
                 } catch (InterruptedException e) {
                     e.printStackTrace();
                 }
-//                latch.countDown();
+                latch.countDown();
                 mainThread.interrupt();
             }
 

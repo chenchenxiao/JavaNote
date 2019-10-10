@@ -4,3 +4,22 @@
     构造器注入可以在构造器中决定依赖关系的注入顺序，有限依赖的优先注入；对于依赖关系无需变化的bean，构造注入更加有用，因为没有setter方法，所有的依赖关系全部在构造器内设定，无须担心后续代码对依赖关系的破坏；
     依赖关系只能在构造器中设定，只有创建者可以改变依赖关系，组件内部的依赖关系完全透明，更符合高内聚的原则
 
+2、解决不同配置文件存在name或id相同的bean问题
+    ① 写一个继承ContextLoaderListener的listener，然后重写customizeContext，调用setAllowBeanDefinitionOverriding设置为false，这样有相同的name或id就会抛异常
+       写好后再web.xml配置listener即可
+    ② 创建一个实现接口ApplicationContextInitializer的类，调用setAllowBeanDefinitionOverriding设置为false，在web.xml中进行配置
+
+3、IOC
+    过程：先调用refresh初始化Bean容器，初始化过程，会先检查当前ApplicationContext是否有BeanFactory，如果有会销毁所有bean，关闭BeanFactory，
+          先将xml配置文件进行解析，得到一颗DOM树。根据这个DOM树解析得到一个个的BeanDefinitionHolder，在这个过程会检查当前的profile是否有效，如果无效会返回。
+          每个BeanDefinitionHolder中包含了BeanDefinition跟BeanName和别名，spring中的bean指的其实就是BeanDefinition，BeanDefinition中包含了很多信息，比如是否是单例，是否是懒加载；
+          然后再把BeanDefinitionHolder进行注册，把Holder中的BeanDefinition跟BeanName注册到一个Map中(会根据全部别名注册一遍)，这样IOC容器中就完成了初始化
+          将IOC容器中的bean(也就是BeanDefinition)进行初始化，通过反射或CGLIB(发生方法重写时)的方式生成实例，然后对实例进行赋值，这样在容器中的对象就都是实例化成功的了
+          加载bean时会先从父容器中查找，会根据不同的scop来创建
+
+4、IOC中，如果在xml和注解都配置了bean，会使用xml配置的bean
+
+5、spring解决循环依赖的方法：
+    通过三个缓存，一级缓存(singletonObjects)存放单例bean的映射，二级缓存(earlySingletonObjects)，存放的是ObjectFactory的映射，三级缓存(singletonFactories)存放早期的bean映射
+    假如A->B->C->A,在获取A时，要先拿到B，拿B要先拿C，C也要拿A，一开始时会创建A，此时A通过ObjectFactory暴露在三级缓存，最后C要拿A的话从三级缓存中拿，完成初始化，把自己放入一级缓存，
+    B,A也是这样，同时会删除A在三级缓存中的映射

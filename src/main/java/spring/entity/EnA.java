@@ -1,6 +1,7 @@
 package spring.entity;
 
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.context.annotation.Bean;
 import org.springframework.stereotype.Component;
 
 /**
@@ -9,17 +10,30 @@ import org.springframework.stereotype.Component;
  * @description
  */
 
-
+@Component(value = "a")
 public class EnA {
 
-    @Autowired
-    enc enc;
+    private String name = "CXH";
 
-    public EnA() {
-        System.out.println("enA---");
+    public String number = null;
+
+    public String getNumber() {
+        return number;
     }
 
-    public enc getEnc() {
-        return enc;
+    public void setNumber(String number) {
+        this.number = number;
+    }
+
+    public EnA() {
+        System.out.println(this.name);
+    }
+
+    public void setName(String name) {
+        this.name = name;
+    }
+
+    public String getName() {
+        return name;
     }
 }

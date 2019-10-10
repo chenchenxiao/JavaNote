@@ -1,4 +1,4 @@
-package com.basic.java.多线程.高并发.WirteRead;
+package com.basic.java.高并发.WirteRead;
 
 public class ReadWritLockClient {
     public static void main(String[] args) {

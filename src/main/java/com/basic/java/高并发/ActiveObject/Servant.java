@@ -1,4 +1,8 @@
-package com.basic.java.多线程.高并发.ActiveObject;
+package com.basic.java.高并发.ActiveObject;
+
+import com.basic.java.高并发.ActiveObject.ActiveObject;
+import com.basic.java.高并发.ActiveObject.RealResult;
+import com.basic.java.高并发.ActiveObject.Result;
 
 /**
  * @author Blse

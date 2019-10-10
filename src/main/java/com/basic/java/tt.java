@@ -12,3 +12,11 @@ public class tt {
 
 
 }
+
+class AAA{
+    public static class BBB{}
+}
+
+class CCC{
+
+}

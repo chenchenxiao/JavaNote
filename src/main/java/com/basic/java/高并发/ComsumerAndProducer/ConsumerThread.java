@@ -1,4 +1,4 @@
-package com.basic.java.多线程.高并发.ComsumerAndProducer;
+package com.basic.java.高并发.ComsumerAndProducer;
 
 import java.util.Random;
 

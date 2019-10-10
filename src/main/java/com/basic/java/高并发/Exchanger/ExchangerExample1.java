@@ -7,7 +7,7 @@ import java.util.concurrent.TimeUnit;
  * @author Blse
  * @date 2019/4/13
  * @description 用于交换数据，两个线程是配对的，如果其中一个BLOCK了，另一个会等待他唤醒后马上把数据给他
- *               Exchanger只能是配对两个线程，如果超过2个其他的会BLOCK。因为没有线程给他配队
+ *               Exchanger只能是配对两个线程，如果超过2个其他的会BLOCK。因为没有线程给他配对
  */
 public class ExchangerExample1 {
 

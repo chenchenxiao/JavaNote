@@ -1,4 +1,4 @@
-package com.basic.java.多线程.高并发.CloseThread;
+package com.basic.java.高并发.CloseThread;
 
 /**
  * @author Blse

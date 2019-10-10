@@ -1,4 +1,4 @@
-package com.basic.java.多线程.高并发.executors;
+package com.basic.java.高并发.executors;
 
 import org.quartz.*;
 import org.quartz.impl.StdScheduler;
@@ -20,7 +20,7 @@ public class QuartzSchedule {
      * @throws SchedulerException
      */
     public static void main(String[] args) throws SchedulerException {
-        JobDetail job = newJob(SimpleJob.class).withIdentity("Job1", "Group1").build();
+        JobDetail job = newJob(com.basic.java.多线程.高并发.executors.SimpleJob.class).withIdentity("Job1", "Group1").build();
         Trigger trigger = newTrigger().withIdentity("trigger1", "group1")
                 .withSchedule(cronSchedule("0/2 * * * * ?")).build();
         Scheduler scheduler = new StdSchedulerFactory().getScheduler();

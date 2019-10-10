@@ -10,6 +10,7 @@ casTabAt(Node tab,int i,Node c, Node v):使用的是Unsafe的compareAndSwapObjec
 setTabAt(Node tab, int i, Node v):使用的是Unsafe的putObjectVolatile方法，利用volatile方法设置第i个节点的值，这个操作是一定成功的
 
 总结：
+
     1、1.8后降低了锁的粒度，1.7版本的锁粒度是基于Segment的，包含HashEntry，1.8后是基于HashEntry的
     2、1.8后的数据结构变得更加简单，使得操作也更加清晰流畅，因为已经使用synchronize来进行同步，所以不需要分段锁的概念，由于粒度降低，实现的复杂度也增加了
     3、1.8后使用红黑树来优化链表，基于长度很长的链表的遍历是一个很漫长的过程，而红黑树的遍历效率很高

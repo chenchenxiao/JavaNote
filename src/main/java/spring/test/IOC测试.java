@@ -31,15 +31,18 @@ public class IOC测试 {
 
     @Test
     public void 测试IOC() {
+//        EnA a  = enA;
         EnA a = (EnA) context.getBean("a");
-        enc c = (enc) context.getBean("c");
-        System.out.println(a.getEnc() == c);
+        System.out.println("a + " + a.getName());
+        System.out.println("a + " + a.getNumber());
+//        enc c = (enc) context.getBean("c");
+//        System.out.println(a.getEnc() == c);
+
     }
 
     @Test
     public void 测试2() {
         System.out.println(enA);
         System.out.println(c);
-        System.out.println(enA.getEnc() == c);
     }
 }

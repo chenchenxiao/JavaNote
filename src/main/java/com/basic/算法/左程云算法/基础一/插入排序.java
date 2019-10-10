@@ -4,7 +4,7 @@ import java.util.Arrays;
 
 /**
  * @author Blse
- * @date 2018/11/12也
+ * @date 2018/11/12
  *  * @description  最好的情况下的时间复杂度是O(N)，就是数组已经是排好序的
  *                最坏的情况下的时间复杂度是O(N^2)，也就是数组是逆序的
  *

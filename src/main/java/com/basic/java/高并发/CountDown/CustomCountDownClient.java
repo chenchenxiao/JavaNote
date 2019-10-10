@@ -1,4 +1,4 @@
-package com.basic.java.多线程.高并发.CountDown;
+package com.basic.java.高并发.CountDown;
 
 import java.util.Random;
 import java.util.stream.IntStream;
